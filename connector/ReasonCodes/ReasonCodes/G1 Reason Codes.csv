@@ -1,0 +1,56 @@
+Code,Category,Reason Text
+D01,Decline,Age of collateral outside of policy
+D02,Decline,Amount financed does not meet product guidelines
+D03,Decline,Applicant does not meet minimum age requirements
+D04,Decline,At Maximum Unsecured Limit
+D05,Decline,Bankruptcy.
+D05,Decline,Bankruptcy.
+D06,Decline,Co-applicant does not meet credit criteria
+D07,Decline,Collection action or judgment.
+D08,Decline,Delinquent installment loans or no trades of this type
+D09,Decline,Delinquent past or present credit obligations with others.
+D10,Decline,Does not meet minimum First Time Buyer Requirements
+D11,Decline,Excessive obligations in relation to income.
+D12,Decline,Excessive recent borrowing or escalating debt
+D13,Decline,Foreclosure or repossession.
+D14,Decline,Garnishment or attachment.
+D15,Decline,Golden 1 loss
+D16,Decline,Income insufficient for amount of credit requested.
+D17,Decline,"Insufficient income, request qualified co-applicant"
+D18,Decline,Insufficient major credit references
+D19,Decline,Insufficient number of credit references provided.
+D20,Decline,Insufficient or recent history with auto accounts
+D21,Decline,Invalid SSN
+D22,Decline,Lack of comparable credit
+D23,Decline,Lack of established comparable high secured credit history since the prior bankruptcy.
+D24,Decline,Lack of established comparable high unsecured credit history since the prior bankruptcy.
+D25,Decline,Lack of established earnings record.
+D26,Decline,Length of employment.
+D27,Decline,Length of residence.
+D28,Decline,Limited credit experience.
+D29,Decline,Loan amount requested exceeds maximum for loan product
+D30,Decline,Near credit limit
+D31,Decline,No credit file.
+D32,Decline,Number of finance company loans
+D33,Decline,Number of recent inquiries on credit bureau report
+D34,Decline,Poor credit performance with Golden 1
+D35,Decline,Ratio of balances to total credit lines on all revolving accounts
+D36,Decline,Request for credit denied due to ineligible membership
+D37,Decline,Requested amount exceeds recommended limit
+D38,Decline,Slow or past due in trade or loan payments.
+D39,Decline,Temporary or irregular employment.
+D40,Decline,Temporary Residence.
+D41,Decline,Term requested exceeds maximum for loan product
+D42,Decline,Third party information
+D43,Decline,Unable to grant credit to non-members
+D44,Decline,Unable to verify credit references.
+D45,Decline,Unable to verify employment.
+D46,Decline,Unable to verify ID
+D47,Decline,Unable to verify income.
+D48,Decline,Unable to verify residence
+D49,Decline,Unable to verify SSN
+D50,Decline,Unacceptable type of credit references provided.
+D51,Decline,Value of collateral insufficient for amount of credit requested
+D52,Decline,Value or type of collateral not sufficient.
+D53,Decline,"We do not accept third party or ""blind"" trades"
+D54,Decline,We do not grant credit on terms and conditions requested

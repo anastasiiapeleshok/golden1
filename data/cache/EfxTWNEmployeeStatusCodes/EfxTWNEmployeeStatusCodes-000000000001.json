@@ -1,0 +1,35 @@
+{"id":1,"_locked":false,"verifierCode":6,"description":"Surviving Spouse","type":"A","sourceName":"TWNCodeTranslations_EmployeeStatusCodes.csv","lineNumber":6}
+{"id":2,"_locked":false,"verifierCode":11,"description":"New Employee","type":"A","sourceName":"TWNCodeTranslations_EmployeeStatusCodes.csv","lineNumber":12}
+{"id":3,"_locked":false,"verifierCode":12,"description":"Lay Off","type":"I","sourceName":"TWNCodeTranslations_EmployeeStatusCodes.csv","lineNumber":13}
+{"id":4,"_locked":false,"verifierCode":13,"description":"Part Time","type":"A","sourceName":"TWNCodeTranslations_EmployeeStatusCodes.csv","lineNumber":14}
+{"id":5,"_locked":false,"verifierCode":8,"description":"Inactive","type":"I","sourceName":"TWNCodeTranslations_EmployeeStatusCodes.csv","lineNumber":9}
+{"id":6,"_locked":false,"verifierCode":9,"description":"On Leave","type":"A","sourceName":"TWNCodeTranslations_EmployeeStatusCodes.csv","lineNumber":10}
+{"id":7,"_locked":false,"verifierCode":4,"description":"On Long Term Disability","type":"I","sourceName":"TWNCodeTranslations_EmployeeStatusCodes.csv","lineNumber":4}
+{"id":8,"_locked":false,"verifierCode":1,"description":"Active","type":"A","sourceName":"TWNCodeTranslations_EmployeeStatusCodes.csv","lineNumber":1}
+{"id":9,"_locked":false,"verifierCode":3,"description":"Casual","type":"A","sourceName":"TWNCodeTranslations_EmployeeStatusCodes.csv","lineNumber":3}
+{"id":10,"_locked":false,"verifierCode":10,"description":"Multiple Positions","type":"A","sourceName":"TWNCodeTranslations_EmployeeStatusCodes.csv","lineNumber":11}
+{"id":11,"_locked":false,"verifierCode":2,"description":"On International Assignment","type":"A","sourceName":"TWNCodeTranslations_EmployeeStatusCodes.csv","lineNumber":2}
+{"id":12,"_locked":false,"verifierCode":7,"description":"No Longer Employed","type":"I","sourceName":"TWNCodeTranslations_EmployeeStatusCodes.csv","lineNumber":7}
+{"id":13,"_locked":false,"description":"Blocked","sourceName":"TWNCodeTranslations_EmployeeStatusCodes.csv","lineNumber":8}
+{"id":14,"_locked":false,"verifierCode":5,"description":"Sick Leave","type":"A","sourceName":"TWNCodeTranslations_EmployeeStatusCodes.csv","lineNumber":5}
+{"id":15,"_locked":false,"verifierCode":14,"description":"Retired","type":"A","sourceName":"TWNCodeTranslations_EmployeeStatusCodes.csv","lineNumber":15}
+{"id":16,"_locked":false,"verifierCode":15,"description":"Separated","type":"I","sourceName":"TWNCodeTranslations_EmployeeStatusCodes.csv","lineNumber":16}
+{"id":17,"_locked":false,"verifierCode":16,"description":"No Longer Employed","type":"I","sourceName":"TWNCodeTranslations_EmployeeStatusCodes.csv","lineNumber":17}
+{"id":18,"_locked":false,"verifierCode":17,"description":"Seasonal","type":"A","sourceName":"TWNCodeTranslations_EmployeeStatusCodes.csv","lineNumber":18}
+{"id":19,"_locked":false,"verifierCode":18,"description":"Temporary","type":"A","sourceName":"TWNCodeTranslations_EmployeeStatusCodes.csv","lineNumber":19}
+{"id":20,"_locked":false,"verifierCode":19,"description":"Intern","type":"A","sourceName":"TWNCodeTranslations_EmployeeStatusCodes.csv","lineNumber":20}
+{"id":21,"_locked":false,"verifierCode":20,"description":"Transferred","type":"I","sourceName":"TWNCodeTranslations_EmployeeStatusCodes.csv","lineNumber":21}
+{"id":22,"_locked":false,"verifierCode":42,"description":"Currently Employed","type":"A","sourceName":"TWNCodeTranslations_EmployeeStatusCodes.csv","lineNumber":24}
+{"id":23,"_locked":false,"verifierCode":38,"description":"Severed with Pay","type":"I","sourceName":"TWNCodeTranslations_EmployeeStatusCodes.csv","lineNumber":23}
+{"id":24,"_locked":false,"verifierCode":46,"description":"Part of Divested Population","type":"I","sourceName":"TWNCodeTranslations_EmployeeStatusCodes.csv","lineNumber":26}
+{"id":25,"_locked":false,"verifierCode":55,"description":"Not Currently on Assignment","type":"I","sourceName":"TWNCodeTranslations_EmployeeStatusCodes.csv","lineNumber":30}
+{"id":26,"_locked":false,"verifierCode":43,"description":"On Sabbatical","type":"A","sourceName":"TWNCodeTranslations_EmployeeStatusCodes.csv","lineNumber":25}
+{"id":27,"_locked":false,"verifierCode":53,"description":"Full-Time","type":"A","sourceName":"TWNCodeTranslations_EmployeeStatusCodes.csv","lineNumber":28}
+{"id":28,"_locked":false,"verifierCode":52,"description":"Temporarily Inactive","type":"A","sourceName":"TWNCodeTranslations_EmployeeStatusCodes.csv","lineNumber":27}
+{"id":29,"_locked":false,"verifierCode":99,"description":"Unknown","sourceName":"TWNCodeTranslations_EmployeeStatusCodes.csv","lineNumber":35}
+{"id":30,"_locked":false,"verifierCode":62,"description":"Inactive(Contractor)","type":"I","sourceName":"TWNCodeTranslations_EmployeeStatusCodes.csv","lineNumber":34}
+{"id":31,"_locked":false,"verifierCode":37,"description":"Deceased","type":"I","sourceName":"TWNCodeTranslations_EmployeeStatusCodes.csv","lineNumber":22}
+{"id":32,"_locked":false,"verifierCode":54,"description":"Furloughed (Active)","type":"A","sourceName":"TWNCodeTranslations_EmployeeStatusCodes.csv","lineNumber":29}
+{"id":33,"_locked":false,"verifierCode":61,"description":"Active(Contractor)","type":"A","sourceName":"TWNCodeTranslations_EmployeeStatusCodes.csv","lineNumber":33}
+{"id":34,"_locked":false,"verifierCode":58,"description":"Active - Works As Needed","type":"A","sourceName":"TWNCodeTranslations_EmployeeStatusCodes.csv","lineNumber":32}
+{"id":35,"_locked":false,"verifierCode":56,"description":"Not Currently on Payroll","type":"I","sourceName":"TWNCodeTranslations_EmployeeStatusCodes.csv","lineNumber":31}

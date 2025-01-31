@@ -1,0 +1,7 @@
+{"id":1,"_locked":false,"creditTierEqual":1,"productEqual":"vehicle","maxPrequalAmount":100000,"sourceName":"Max Loan Amount.csv","lineNumber":2}
+{"id":2,"_locked":false,"creditTierEqual":0,"productEqual":"vehicle","maxPrequalAmount":100000,"sourceName":"Max Loan Amount.csv","lineNumber":1}
+{"id":3,"_locked":false,"creditTierEqual":3,"productEqual":"vehicle","maxPrequalAmount":75000,"sourceName":"Max Loan Amount.csv","lineNumber":4}
+{"id":4,"_locked":false,"creditTierEqual":2,"productEqual":"vehicle","maxPrequalAmount":75000,"sourceName":"Max Loan Amount.csv","lineNumber":3}
+{"id":5,"_locked":false,"creditTierEqual":4,"productEqual":"vehicle","maxPrequalAmount":35000,"sourceName":"Max Loan Amount.csv","lineNumber":5}
+{"id":6,"_locked":false,"creditTierEqual":5,"productEqual":"vehicle","maxPrequalAmount":35000,"sourceName":"Max Loan Amount.csv","lineNumber":6}
+{"id":7,"_locked":false,"creditTierEqual":7,"productEqual":"vehicle","maxPrequalAmount":10000,"sourceName":"Manual Entry","lineNumber":7,"_priorValues":{"maxPrequalAmount":[{"newValue":"10,000","updated":1724250663368,"userId":"jamesmarsh"}],"productEqual":[{"newValue":"vehicle","updated":1724250659772,"userId":"jamesmarsh"}],"creditTierEqual":[{"newValue":"7","updated":1724250652442,"userId":"jamesmarsh"}]}}

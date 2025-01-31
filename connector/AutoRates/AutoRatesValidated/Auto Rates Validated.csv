@@ -1,0 +1,17 @@
+Factor,Value,Min,Max,Adjustment,sourceName,lineNumber
+Tier,1,,,0.65%,Auto Rates.csv,2
+Tier,2,,,1.50%,Auto Rates.csv,3
+Tier,3,,,2.60%,Auto Rates.csv,4
+Base Rate,Prime,,,6.04%,Auto Rates.csv,1
+Tier,4,,,5.50%,Auto Rates.csv,5
+Tier,5,,,5.50%,Auto Rates.csv,6
+Used,TRUE,,,0.25%,Auto Rates.csv,13
+Region,South,,,0.30%,Auto Rates.csv,14
+Age Class,10-15 yrs < 100K,,,3.00%,Auto Rates.csv,15
+Age Class,10-15 yrs > 100K,,,3.75%,Auto Rates.csv,16
+LTV,,0.000,0.950,0.00%,Auto Rates.csv,7
+LTV,,0.900,1.150,0.30%,Auto Rates.csv,8
+LTV,,1.150,10.000,0.90%,Auto Rates.csv,9
+Term,,0.000,60.000,0.00%,Auto Rates.csv,10
+Term,,60.000,72.000,0.30%,Auto Rates.csv,11
+Term,,72.000,84.000,0.65%,Auto Rates.csv,12

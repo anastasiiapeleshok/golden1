@@ -1,0 +1,69 @@
+{"id":1,"_locked":false,"code":"11","description":"ACCOUNT PAYMENTS MANAGED BY FINANCIAL COUNSELING PROGRAM","v6":11,"sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":3}
+{"id":2,"_locked":false,"code":"12","description":"ADJUSTMENT PENDING","v6":12,"sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":4}
+{"id":3,"_locked":false,"code":"13","review":"*","description":"ACCOUNT PREVIOUSLY IN DISPUTE  NOW RESOLVED  REPORTED BY SUBSCRIBER","v6":13,"sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":5}
+{"id":4,"_locked":false,"code":"14","description":"ACCOUNT IN DISPUTE  REPORTED BY SUBSCRIBER (FCBA)","v6":14,"sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":6}
+{"id":5,"_locked":false,"code":"18","review":"*","description":"ACCOUNT CLOSED AT CREDIT GRANTORS REQUEST","v6":18,"sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":7}
+{"id":6,"_locked":false,"code":"19","review":"*","description":"ACCOUNT CLOSED AT CONSUMERS REQUEST","v6":19,"sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":8}
+{"id":7,"_locked":false,"code":"20","review":"*","description":"DISPUTE RESOLVED  CONSUMER DISAGREES","v6":20,"sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":9}
+{"id":8,"_locked":false,"code":"22","review":"*","description":"ELECTION OF REMEDY","v6":22,"sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":10}
+{"id":9,"_locked":false,"code":"24","review":"*","description":"SPECIAL EVALUATION REQUIREDACCOUNT PAYMENT AFFECTED BY HOSTILE ACTS AGAINST THE UNITED STATES","v6":24,"sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":11}
+{"id":10,"_locked":false,"code":"25","review":"*","description":"PAID BY CO-MAKER","v6":25,"sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":12}
+{"id":11,"_locked":false,"code":"28","review":"*","description":"ACCOUNT CLOSED DUE TO TRANSFER OR REFINANCE","v6":28,"sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":13}
+{"id":12,"_locked":false,"code":"29","review":"*","description":"PAYMENT DEFERRED","v6":29,"sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":14}
+{"id":13,"_locked":false,"code":"30","review":"*","description":"LOAN ASSUMED BY ANOTHER PARTY","v6":30,"sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":15}
+{"id":14,"_locked":false,"code":"31","review":"*","description":"TRANSFERRED TO ANOTHER LENDER","v6":31,"sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":16}
+{"id":15,"_locked":false,"code":"34","description":"DEBT BEING PAID THROUGH INSURANCE","sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":17}
+{"id":16,"_locked":false,"code":"38","review":"*","description":"SINGLE PAYMENT LOAN","sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":19}
+{"id":17,"_locked":false,"code":"35","review":"*","description":"PAYING UNDER A PARTIAL OR MODIFIED PAYMENT AGREEMENT","sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":18}
+{"id":18,"_locked":false,"code":"39","review":"*","description":"SIMPLE INTEREST LOAN","sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":20}
+{"id":19,"_locked":false,"code":"41","description":"RECALLED TO MILITARY ACTIVE DUTY","sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":22}
+{"id":20,"_locked":false,"code":"42","review":"*","description":"PAYROLL DEDUCTION","sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":23}
+{"id":21,"_locked":false,"code":"44","review":"*","description":"STUDENT LOAN ASSIGNED TO GOVERNMENT","sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":24}
+{"id":22,"_locked":false,"code":"45","review":"*","description":"ACCOUNT PAYMENTS ASSURED BY WAGE GARNISHMENT","sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":25}
+{"id":23,"_locked":false,"code":"46","review":"*","description":"ACCOUNT ACQUIRED BY RTC/FDIC/NCUA","sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":26}
+{"id":24,"_locked":false,"code":"40","review":"*","description":"PURCHASED BY ANOTHER LENDER","v6":31,"sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":21}
+{"id":25,"_locked":false,"code":"48","review":"*","description":"CREDIT LINE SUSPENDED","sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":28}
+{"id":26,"_locked":false,"code":"49","review":"*","description":"CONTINGENT LIABILITY","sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":29}
+{"id":27,"_locked":false,"code":"50","review":"*","description":"ACCOUNT CLOSED DUE TO REFINANCE","v6":28,"sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":30}
+{"id":28,"_locked":false,"code":"51","review":"*","description":"ACCOUNT CLOSED DUE TO TRANSFER","v6":28,"sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":31}
+{"id":29,"_locked":false,"code":"52","review":"*","description":"ACCOUNT PAID IN FULL FOR LESS THAN FULL BALANCE","v6":23,"sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":32}
+{"id":30,"_locked":false,"code":"53","review":"*","description":"FIRST PAYMENT NEVER RECEIVED","sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":33}
+{"id":31,"_locked":false,"code":"54","description":"AFFECTED BY NATURAL OR DECLARED DISASTER","sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":34}
+{"id":32,"_locked":false,"code":"55","review":"*","description":"ACCOUNT PAID FROM COLLATERAL","sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":35}
+{"id":33,"_locked":false,"code":"56","review":"*","description":"NOW PAYING","sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":36}
+{"id":34,"_locked":false,"code":"57","review":"*","description":"REDEEMED REPOSSESSION","sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":37}
+{"id":35,"_locked":false,"code":"58","review":"*","description":"TRANSFERRED TO RECOVERY","sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":38}
+{"id":36,"_locked":false,"code":"59","review":"*","description":"FULL TERMINATION/STATUS PENDING","sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":39}
+{"id":37,"_locked":false,"code":"60","review":"*","description":"FULL TERMINATION/OBLIGATION SATISFIED","sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":40}
+{"id":38,"_locked":false,"code":"61","review":"*","description":"FULL TERMINATION/BALANCE OWING","sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":41}
+{"id":39,"_locked":false,"code":"62","review":"*","description":"EARLY TERMINATION/STATUS PENDING","sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":42}
+{"id":40,"_locked":false,"code":"63","review":"*","description":"EARLY TERMINATION/OBLIGATION SATISFIED","sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":43}
+{"id":41,"_locked":false,"code":"64","review":"*","description":"EARLY TERMINATION/BALANCE OWING","sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":44}
+{"id":42,"_locked":false,"code":"65","review":"*","description":"EARLY TERMINATION/INSURANCE LOSS","sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":45}
+{"id":43,"_locked":false,"code":"66","review":"*","description":"INVOLUNTARY REPOSSESSION","sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":46}
+{"id":44,"_locked":false,"code":"67","review":"*","description":"INVOLUNTARY REPOSSESSION/OBLIGATION SATISFIED","sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":47}
+{"id":45,"_locked":false,"code":"68","review":"*","description":"INVOLUNTARY REPOSSESSION/BALANCE OWING","sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":48}
+{"id":46,"_locked":false,"code":"10","review":"*","description":"SPECIAL HANDLING-CONTACT SUBSCRIBER FOR ADDITIONAL INFORMATION","v6":10,"sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":2}
+{"id":47,"_locked":false,"code":"69","review":"*","description":"CREDIT CARD LOST OR STOLEN","sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":49}
+{"id":48,"_locked":false,"code":"71","review":"*","description":"PAID BY COMPANY WHO ORIGINALLY SOLD THE MERCHANDISE","sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":50}
+{"id":49,"_locked":false,"code":"72","review":"*","description":"FORECLOSURE PROCEEDINGS STARTED","sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":51}
+{"id":50,"_locked":false,"code":"73","review":"*","description":"PAID THROUGH INSURANCE","sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":52}
+{"id":51,"_locked":false,"code":"76","review":"*","description":"PREPAID LEASE","sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":53}
+{"id":52,"_locked":false,"code":"77","review":"*","description":"PRINCIPAL DEFERRED/INTEREST PAYMENT ONLY","sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":54}
+{"id":53,"_locked":false,"code":"78","review":"*","description":"ACCOUNT INFORMATION DISPUTED BY CONSUMER","v6":15,"sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":55}
+{"id":54,"_locked":false,"code":"83","review":"*","description":"ACCOUNT CLOSED AT CONSUMERS REQUEST AND IN DISPUTE UNDER FCRA","v6":19,"sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":56}
+{"id":55,"_locked":false,"code":"9","description":"CREDIT LINE CLOSED BY CONSUMER","v6":9,"sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":1}
+{"id":56,"_locked":false,"code":"84","review":"*","description":"ACCOUNT CLOSED AT CONSUMERS REQUEST AND DISPUTE INVESTIGATION COMPLETED  CONSUMER DISAGREES","v6":19,"sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":57}
+{"id":57,"_locked":false,"code":"88","review":"*","description":"ACCOUNT CLOSED BY CONSUMER AND IN DISPUTE UNDER FCBA (FAIR CREDIT BILLING ACT)","v6":14,"sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":58}
+{"id":58,"_locked":false,"code":"89","review":"*","description":"ACQUIRED FROM ANOTHER LENDER","sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":59}
+{"id":59,"_locked":false,"code":"90","review":"*","description":"SUBSTITUTE/REPLACEMENT ACCOUNT","sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":60}
+{"id":60,"_locked":false,"code":"91","review":"*","description":"CLOSED DUE TO INACTIVITY","v6":18,"sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":61}
+{"id":61,"_locked":false,"code":"CH","description":"GUARANTEED/INSURED","sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":62}
+{"id":62,"_locked":false,"code":"CJ","review":"*","description":"CREDIT LINE NO LONGER AVAILABLE- IN REPAYMENT PHASE  (available Nov. 2009)","sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":63}
+{"id":63,"_locked":false,"code":"CK","review":"*","description":"CREDIT LINE REDUCED DUE TO COLLATERAL DEPRECIATION  (available Nov. 2009)","sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":64}
+{"id":64,"_locked":false,"code":"CL","review":"*","description":"CREDIT LINE SUSPENDED DUE TO COLLATERAL DEPRECIATION  (available Nov. 2009)","sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":65}
+{"id":65,"_locked":false,"code":"CM","review":"*","description":"COLLATERAL RELEASED BY CREDITOR/BALANCE OWING  (available Nov. 2009)","sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":66}
+{"id":66,"_locked":false,"code":"CN","review":"*","description":"LOAN MODIFIED UNDER A FEDERAL GOVERNMENT PLAN (available Nov. 2009)","sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":67}
+{"id":67,"_locked":false,"code":"CO","review":"*","description":"LOAN MODIFIED BUT NOT UNDER A FEDERAL GOVERNMENT PLAN","sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":68}
+{"id":68,"_locked":false,"code":"CP","review":"*","description":"ACCOUNT IN FORBEARANCE","sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":69}
+{"id":69,"_locked":false,"code":"47","review":"*","description":"VOLUNTARILY SURRENDERED  THEN REDEEMED","sourceName":"EfxAppendix_EfxCommentCodes.csv","lineNumber":27}

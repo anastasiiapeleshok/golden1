@@ -1,0 +1,59 @@
+﻿Program Version,Program,Attribute,Value, Adjustment
+1,Credit Card,Base Rate,Prime,9.50%
+1,Credit Card,Base Margin,,7.49%
+1,Credit Card,Card Segment,1A,0.00%
+1,Credit Card,Card Segment,2A,1.00%
+1,Credit Card,Card Segment,3A,2.00%
+1,Credit Card,Card Segment,4A,3.00%
+1,Credit Card,Card Segment,5A,4.00%
+1,Credit Card,Card Segment,6A,5.00%
+1,Credit Card,Card Segment,7A,6.00%
+1,Credit Card,Card Segment,8A,7.00%
+1,Credit Card,Card Segment,1B,3.00%
+1,Credit Card,Card Segment,2B,4.00%
+1,Credit Card,Card Segment,3B,5.00%
+1,Credit Card,Card Segment,4B,6.00%
+1,Credit Card,Card Segment,5B,7.00%
+1,Credit Card,Card Segment,6B,8.00%
+1,Credit Card,Product,MCRP,0.00%
+1,Credit Card,Product,MCR,0.00%
+1,Credit Card,Product,MRA,-2.00%
+1,Credit Card,Utilization,Low,-1.00%
+1,Credit Card,Utilization,Medium,0.00%
+1,Credit Card,Utilization,High,0.25%
+1,Credit Card,Income,Low,0.25%
+1,Credit Card,Income,High,-0.25%
+1,Personal Loan,Base Rate,,9.49%
+1,Personal Loan,Personal Loan Segment,1A,0.00%
+1,Personal Loan,Personal Loan Segment,2A,1.00%
+1,Personal Loan,Personal Loan Segment,3A,2.00%
+1,Personal Loan,Personal Loan Segment,4A,3.00%
+1,Personal Loan,Personal Loan Segment,5A,5.00%
+1,Personal Loan,Personal Loan Segment,6A,6.00%
+1,Personal Loan,Personal Loan Segment,7A,7.00%
+1,Personal Loan,Personal Loan Segment,8A,8.00%
+1,Personal Loan,Personal Loan Segment,1B,2.00%
+1,Personal Loan,Personal Loan Segment,2B,3.00%
+1,Personal Loan,Personal Loan Segment,3B,4.00%
+1,Personal Loan,Personal Loan Segment,4B,5.00%
+1,Personal Loan,Personal Loan Segment,5B,7.00%
+1,Personal Loan,Personal Loan Segment,6B,8.00%
+1,Personal Loan,Personal Loan Term Bucket,Short,0.00%
+1,Personal Loan,Personal Loan Term Bucket,Medium,0.50%
+1,Personal Loan,Personal Loan Term Bucket,Long,1.00%
+1,Vehicle,Base Rate,Prime,6.79%
+1,Vehicle,Tier,1,0.00%
+1,Vehicle,Tier,2,0.65%
+1,Vehicle,Tier,3,1.50%
+1,Vehicle,Tier,4,2.55%
+1,Vehicle,Tier,5,5.35%
+1,Vehicle,LTV,<=90%,0.00%
+1,Vehicle,LTV,91-105%,0.25%
+1,Vehicle,LTV,106-115%,0.80%
+1,Vehicle,Term,60,0.00%
+1,Vehicle,Term,72,0.30%
+1,Vehicle,Term,84,0.65%
+1,Vehicle,Used,TRUE,0.35%
+1,Vehicle,Region,South,0.40%
+1,Vehicle,Age Class,10-15 yrs < 100k,2.00%
+1,Vehicle,Age Class,10-15 yrs > 100k,3.00%

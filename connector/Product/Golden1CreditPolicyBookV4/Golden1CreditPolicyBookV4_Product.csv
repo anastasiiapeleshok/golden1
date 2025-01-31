@@ -1,0 +1,18 @@
+"Program","Product","Vehicle Type","New Vehicle","Minimum Line"
+"Credit Card","Member Cash Rewards+",,,5000
+"Credit Card","Member Cash Rewards",,,0
+"Credit Card","Member Rate Advantage",,,0
+"Credit Card","Member First",,,0
+"Personal Loan","Personal Loan",,,0
+"Personal Loan","Credit Starter Loan",,,0
+"Personal Loan","Certificate and Savings Secured Loan",,,0
+"Personal Loan","Personal Line of Credit",,,0
+"Personal Loan","Credit Builder Line of Credit",,,0
+"Vehicle","New Auto","Auto",TRUE,0
+"Vehicle","Used Auto","Auto",FALSE,0
+"Vehicle","New RV","RV",TRUE,0
+"Vehicle","Used RV","RV",FALSE,0
+"Vehicle","New Motorcycle, Jet Ski, or All-Terrain Vehicle","Personal",TRUE,0
+"Vehicle","Used Motorcycle, Jet Ski, or All-Terrain Vehicle","Personal",FALSE,0
+"Vehicle","New Boat","Boat",TRUE,0
+"Vehicle","Used Boat","Boat",FALSE,0

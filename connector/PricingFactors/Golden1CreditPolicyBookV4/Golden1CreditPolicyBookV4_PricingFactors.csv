@@ -1,0 +1,41 @@
+"Program Version","Program","Attribute","Value"," Adjustment"
+1,"Credit Card","Base Rate","Prime",8.500%
+1,"Credit Card","Base Margin",,4.540%
+1,"Credit Card","Tier",1,0.000%
+1,"Credit Card","Tier",2,1.000%
+1,"Credit Card","Tier",3,2.000%
+1,"Credit Card","Tier",4,3.000%
+1,"Credit Card","Tier",5,4.000%
+1,"Credit Card","Tier",6,5.000%
+2,"Credit Card","Tier",7,5.750%
+1,"Credit Card","Rewards",TRUE,4.000%
+1,"Credit Card","Utilization","Low",-0.250%
+1,"Credit Card","Utilization","High",0.250%
+1,"Credit Card","Income","Low",0.250%
+1,"Credit Card","Income","High",-0.250%
+1,"Personal","Base Rate",,9.640%
+1,"Personal","Tier",1,0.000%
+1,"Personal","Tier",2,2.050%
+1,"Personal","Tier",3,3.850%
+1,"Personal","Tier",4,5.400%
+1,"Personal","Tier",5,7.700%
+1,"Personal","Tier",6,9.360%
+1,"Personal","Term",36,0.000%
+1,"Personal","Term",48,0.500%
+1,"Personal","Term",60,1.000%
+1,"Vehicle","Base Rate","Prime",6.790%
+1,"Vehicle","Tier",1,0.000%
+1,"Vehicle","Tier",2,0.650%
+1,"Vehicle","Tier",3,1.500%
+1,"Vehicle","Tier",4,2.550%
+1,"Vehicle","Tier",5,5.350%
+1,"Vehicle","LTV","<=90%",0.000%
+1,"Vehicle","LTV","91-105%",0.250%
+1,"Vehicle","LTV","106-115%",0.800%
+1,"Vehicle","Term",60,0.000%
+1,"Vehicle","Term",72,0.300%
+1,"Vehicle","Term",84,0.650%
+1,"Vehicle","Used",TRUE,0.350%
+1,"Vehicle","Region","South",0.400%
+1,"Vehicle","Age Class","10-15 yrs < 100k",2.000%
+1,"Vehicle","Age Class","10-15 yrs > 100k",3.000%

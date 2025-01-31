@@ -1,0 +1,2 @@
+LoanClass,RateType,Rate,RateFloor,RateCeiling,RateAdjustmentOption,Margin,Index,MinTerm,MaxTerm,MinLoanAmount,MaxLoanAmount,MinCreditScore,MaxCreditScore,MinCustomScore,MaxCustomScore,MinCustomScore2,MaxCustomScore2,IndexType,InitialRate,ChangeAfterDays,Tier,ValidStartDate,ValidEndDate,MinCustomScore3,MaxCustomScore3,MinCustomScore4,MaxCustomScore4,MinCustomScore5,MaxCustomScore5,LocationFilterType,LocationPoolName
+GRAAA,V,13.04,0,18,INDEX_MARGIN,4.54,8.5,,,500.0000,30000.0000,600,,1,50,,,,,,0,,,,,,,,,ALL,

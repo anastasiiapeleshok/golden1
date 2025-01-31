@@ -1,0 +1,29 @@
+"Status","Print Description","Legal Description",,"V6 Code","V6 Designator"
+13,"BK 13-PETIT","Bankruptcy Chapter 13-petition filed",,13,0
+15,"BK 7-DISCHG","Bankruptcy chapter 7-discharged",,15,0
+16,"BK 13-DISMIS","Bankruptcy chapter 13-dismissed",,16,0
+17,"BK 13-DISCHG","Bankruptcy chapter 13-discharged",,17,0
+22,"BK 11-DISMIS","Bankruptcy chapter 11-dismissed",,22,0
+23,"BK 7-PETIT","Bankruptcy chapter 7-petition filed",,36,0
+24,"BK 7-DISMIS","Bankruptcy chapter 7-dismissed",,24,0
+25,"BK 11-PETIT","Bankruptcy chapter 11-petition filed",,25,0
+26,"BK 11-DISCHG","Bankruptcy chapter 11-discharged",,26,0
+27,"BK 12-PETIT","Bankruptcy chapter 12-petition filed",,27,0
+28,"BK 12-DISCHG","Bankruptcy chapter 12-discharged",,28,0
+29,"BK 12-DISMIS","Bankruptcy chapter 12-dismissed",,29,0
+0,"SM CL JUDGMT","Small claims judgment",,8,1
+1,"SM CL SATIS","Small claims judgment satisfied",,9,1
+2,"SM CL VACAT","Small claims judgment vacated or reversed",,14,1
+3,"CH SUP JUDG","Child support delinquency judgment",,8,1
+4,"CH SUP SATIS","Child support delinquency judgment satisfied",,9,1
+5,"MECH LIEN","Mechanics lien",,36,2
+8,"CIV CL JUDG","Judgment",,8,1
+9,"CIV CL SATIS","Judgment satisfied",,9,1
+14,"CIV CL VACAT","Civil claims judgment vacated or reversed",,14,1
+18,"MECH LN REL","Mechanics lien released",,12,2
+30,"FED TAX LIEN","Fed tax lien",,36,3
+31,"FED TAX REL","Federal tax lien released",,12,3
+32,"STATE TAX LN","State tax lien",,36,4
+33,"STATE TX REL","State tax lien released",,12,4
+34,"COUNTY LIEN","County tax lien",,36,5
+35,"CO LIEN REL","County tax lien released",,12,5

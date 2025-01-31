@@ -1,0 +1,4 @@
+Program,Program Number,Code,Zest Model Name,Description,sourceName,lineNumber
+Credit Card,1,credit-card,creditcard_modelshop,Unsecured credit card,Golden1CreditPolicyBookV2_Program.csv,1
+Personal Loan,2,personal,personalloan_modelshop,Unsecured loans and lines of credit,Golden1CreditPolicyBookV2_Program.csv,2
+Vehicle,3,vehicle,auto_modelshop,"Auto, RV and motorcycle secured loans",Golden1CreditPolicyBookV2_Program.csv,3

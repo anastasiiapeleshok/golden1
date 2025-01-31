@@ -1,0 +1,7 @@
+Zest Score <,Vehicle Tier,sourceName,lineNumber,Members Only,Minimum Vantage Score,Maximum Front LTV,Maximum Back LTV,Maximum Loan Amount,Maximum Loan Amount with Review,Income Verification Income Threshold,Income Verification Percent Debt Increase Threshold,Maximum Loan Term,Maximum DTI,Maximum PTI Auto Approval,Maximum Secured Aggregate Amount With G1 No Mortgage,Maximum Total Unsecure Balance Over Annual Income,Is HDP,HDP Maximum Loan Amount Member,HDP Maximum Loan Amount Non Member
+51,0,Vehicle Tier.csv,1,false,600,115.00%,150.00%,"$75,000.00","$99,999.00","$250,000.00",10.00%,84,55.00%,15.00%,"$200,000.00",70.00%,true,"$200,000.00","$120,000.00"
+91,1,Vehicle Tier.csv,2,false,600,115.00%,150.00%,"$75,000.00","$99,999.00","$250,000.00",10.00%,84,50.00%,15.00%,"$200,000.00",70.00%,true,"$200,000.00","$120,000.00"
+131,2,Vehicle Tier.csv,3,false,600,115.00%,150.00%,"$75,000.00","$99,999.00","$175,000.00",0.00%,84,50.00%,15.00%,"$200,000.00",70.00%,true,"$200,000.00","$120,000.00"
+171,3,Vehicle Tier.csv,4,false,600,115.00%,150.00%,"$55,000.00","$99,999.00","$150,000.00",0.00%,84,45.00%,15.00%,"$100,000.00",70.00%,false,,
+211,4,Vehicle Tier.csv,5,false,600,105.00%,150.00%,"$35,000.00","$99,999.00","$75,000.00",0.00%,72,45.00%,15.00%,"$100,000.00",70.00%,false,,
+301,5,Vehicle Tier.csv,6,true,600,95.00%,,,"$99,999.00","$75,000.00",0.00%,72,40.00%,15.00%,"$80,000.00",,false,,

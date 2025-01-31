@@ -1,0 +1,39 @@
+Program Version,Program,Attribute,Value,Adjustment,Type
+1,Credit Card,Card Segment,1A,"$20,500.00 ",Line
+1,Credit Card,Card Segment,2A,"$19,000.00 ",Line
+1,Credit Card,Card Segment,3A,"$18,000.00 ",Line
+1,Credit Card,Card Segment,5A,"$15,500.00 ",Line
+1,Credit Card,Card Segment,4A,"$16,500.00 ",Line
+1,Credit Card,Card Segment,6A,"$14,500.00 ",Line
+1,Credit Card,Card Segment,7A,"$14,000.00 ",Line
+1,Credit Card,Card Segment,2B,"$15,500.00 ",Line
+1,Credit Card,Card Segment,1B,"$16,500.00 ",Line
+1,Credit Card,Card Segment,3B,"$9,000.00 ",Line
+1,Credit Card,Card Segment,4B,"$8,250.00 ",Line
+1,Credit Card,Card Segment,5B,"$7,750.00 ",Line
+1,Credit Card,Card Segment,6B,"$7,250.00 ",Line
+1,Credit Card,Card Segment,8A,"$13,000.00 ",Line
+1,Credit Card,Utilization Tier,Mid,"($2,000.00)",Line
+1,Credit Card,Utilization Tier,Low,"($4,000.00)",Line
+1,Credit Card,Utilization Tier,High,$0.00 ,Line
+1,Credit Card,Income Tier,Low,"($4,000.00)",Line
+1,Credit Card,Income Tier,Mid,"($2,000.00)",Line
+1,Credit Card,Income Tier,High,$0.00 ,Line
+1,Personal Loan,Base Amount,,"$35,000.00 ",Amount
+1,Personal Loan,Personal Loan Segment,1A,$0.00 ,Amount
+1,Personal Loan,Personal Loan Segment,2A,$0.00 ,Amount
+1,Personal Loan,Personal Loan Segment,3A,$0.00 ,Amount
+1,Personal Loan,Personal Loan Segment,4A,$0.00 ,Amount
+1,Personal Loan,Personal Loan Segment,5A,"($5,000.00)",Amount
+1,Personal Loan,Personal Loan Segment,6A,"($5,000.00)",Amount
+1,Personal Loan,Personal Loan Segment,7A,"($15,000.00)",Amount
+1,Personal Loan,Personal Loan Segment,8A,"($20,000.00)",Amount
+1,Personal Loan,Personal Loan Segment,1B,$0.00 ,Amount
+1,Personal Loan,Personal Loan Segment,2B,$0.00 ,Amount
+1,Personal Loan,Personal Loan Segment,3B,$0.00 ,Amount
+1,Personal Loan,Personal Loan Segment,4B,"($10,000.00)",Amount
+1,Personal Loan,Personal Loan Segment,5B,"($15,000.00)",Amount
+1,Personal Loan,Personal Loan Segment,6B,"($15,000.00)",Amount
+1,Personal Loan,Personal Loan Term Bucket,Long,$0.00 ,Amount
+1,Personal Loan,Personal Loan Term Bucket,Medium,$0.00 ,Amount
+1,Personal Loan,Personal Loan Term Bucket,Short,$0.00 ,Amount

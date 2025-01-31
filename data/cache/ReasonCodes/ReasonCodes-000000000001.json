@@ -1,0 +1,87 @@
+{"id":2028,"_locked":false,"code":"D41","category":"Decline","reasonText":"Term requested exceeds maximum for loan product","sourceName":"G1 Reason Codes.csv","lineNumber":42}
+{"id":2029,"_locked":false,"code":"D42","category":"Decline","reasonText":"Third party information","sourceName":"G1 Reason Codes.csv","lineNumber":43}
+{"id":2030,"_locked":false,"code":"D01","category":"Decline","reasonText":"Age of collateral outside of policy","sourceName":"G1 Reason Codes.csv","lineNumber":1}
+{"id":2031,"_locked":false,"code":"D00","category":"Decline","reasonText":"California Only","sourceName":"Manual Entry","lineNumber":2031}
+{"id":2032,"_locked":false,"code":"D03","category":"Decline","reasonText":"Applicant does not meet minimum age requirements","sourceName":"G1 Reason Codes.csv","lineNumber":3}
+{"id":2034,"_locked":false,"code":"D05","category":"Decline","reasonText":"Bankruptcy.","sourceName":"G1 Reason Codes.csv","lineNumber":6}
+{"id":2037,"_locked":false,"code":"D29","category":"Decline","reasonText":"Loan amount requested exceeds maximum for loan product","sourceName":"G1 Reason Codes.csv","lineNumber":30}
+{"id":2039,"_locked":false,"code":"D28","category":"Decline","reasonText":"Limited credit experience.","sourceName":"G1 Reason Codes.csv","lineNumber":29}
+{"id":2040,"_locked":false,"code":"D09","category":"Decline","reasonText":"Delinquent past or present credit obligations with others.","sourceName":"G1 Reason Codes.csv","lineNumber":10}
+{"id":2045,"_locked":false,"code":"D51","category":"Decline","reasonText":"Value of collateral insufficient for amount of credit requested","sourceName":"G1 Reason Codes.csv","lineNumber":52}
+{"id":2047,"_locked":false,"code":"D34","category":"Decline","reasonText":"Poor credit performance with Golden 1","sourceName":"G1 Reason Codes.csv","lineNumber":35}
+{"id":2048,"_locked":false,"code":"D12","category":"Decline","reasonText":"Excessive recent borrowing or escalating debt","sourceName":"G1 Reason Codes.csv","lineNumber":13}
+{"id":2050,"_locked":false,"code":"D11","category":"Decline","reasonText":"Excessive obligations in relation to income.","sourceName":"G1 Reason Codes.csv","lineNumber":12}
+{"id":2055,"_locked":false,"code":"D13","category":"Decline","reasonText":"Foreclosure or repossession.","sourceName":"G1 Reason Codes.csv","lineNumber":14}
+{"id":2057,"_locked":false,"code":"D16","category":"Decline","reasonText":"Income insufficient for amount of credit requested.","sourceName":"G1 Reason Codes.csv","lineNumber":17}
+{"id":2067,"_locked":false,"code":"D02","category":"Decline","reasonText":"Amount financed does not meet product guidelines","sourceName":"G1 Reason Codes.csv","lineNumber":2}
+{"id":2069,"_locked":false,"code":"D04","category":"Decline","reasonText":"At Maximum Unsecured Limit","sourceName":"G1 Reason Codes.csv","lineNumber":4}
+{"id":2072,"_locked":false,"code":"D06","category":"Decline","reasonText":"Co-applicant does not meet credit criteria","sourceName":"G1 Reason Codes.csv","lineNumber":7}
+{"id":2073,"_locked":false,"code":"D07","category":"Decline","reasonText":"Collection action or judgment.","sourceName":"G1 Reason Codes.csv","lineNumber":8}
+{"id":2074,"_locked":false,"code":"D08","category":"Decline","reasonText":"Delinquent installment loans or no trades of this type","sourceName":"G1 Reason Codes.csv","lineNumber":9}
+{"id":2076,"_locked":false,"code":"D10","category":"Decline","reasonText":"Does not meet minimum First Time Buyer Requirements","sourceName":"G1 Reason Codes.csv","lineNumber":11}
+{"id":2080,"_locked":false,"code":"D14","category":"Decline","reasonText":"Garnishment or attachment.","sourceName":"G1 Reason Codes.csv","lineNumber":15}
+{"id":2081,"_locked":false,"code":"D15","category":"Decline","reasonText":"Golden 1 loss","sourceName":"G1 Reason Codes.csv","lineNumber":16}
+{"id":2083,"_locked":false,"code":"D17","category":"Decline","reasonText":"Insufficient income, request qualified co-applicant","sourceName":"G1 Reason Codes.csv","lineNumber":18}
+{"id":2084,"_locked":false,"code":"D18","category":"Decline","reasonText":"Insufficient major credit references","sourceName":"G1 Reason Codes.csv","lineNumber":19}
+{"id":2085,"_locked":false,"code":"D19","category":"Decline","reasonText":"Insufficient number of credit references provided.","sourceName":"G1 Reason Codes.csv","lineNumber":20}
+{"id":2086,"_locked":false,"code":"D20","category":"Decline","reasonText":"Insufficient or recent history with auto accounts","sourceName":"G1 Reason Codes.csv","lineNumber":21}
+{"id":2087,"_locked":false,"code":"D21","category":"Decline","reasonText":"Invalid SSN","sourceName":"G1 Reason Codes.csv","lineNumber":22}
+{"id":2088,"_locked":false,"code":"D22","category":"Decline","reasonText":"Lack of comparable credit","sourceName":"G1 Reason Codes.csv","lineNumber":23}
+{"id":2089,"_locked":false,"code":"D23","category":"Decline","reasonText":"Lack of established comparable high secured credit history since the prior bankruptcy.","sourceName":"G1 Reason Codes.csv","lineNumber":24}
+{"id":2090,"_locked":false,"code":"D24","category":"Decline","reasonText":"Lack of established comparable high unsecured credit history since the prior bankruptcy.","sourceName":"G1 Reason Codes.csv","lineNumber":25}
+{"id":2091,"_locked":false,"code":"D25","category":"Decline","reasonText":"Lack of established earnings record.","sourceName":"G1 Reason Codes.csv","lineNumber":26}
+{"id":2092,"_locked":false,"code":"D26","category":"Decline","reasonText":"Length of employment.","sourceName":"G1 Reason Codes.csv","lineNumber":27}
+{"id":2093,"_locked":false,"code":"D27","category":"Decline","reasonText":"Length of residence.","sourceName":"G1 Reason Codes.csv","lineNumber":28}
+{"id":2096,"_locked":false,"code":"D30","category":"Decline","reasonText":"Near credit limit","sourceName":"G1 Reason Codes.csv","lineNumber":31}
+{"id":2097,"_locked":false,"code":"D31","category":"Decline","reasonText":"No credit file.","sourceName":"G1 Reason Codes.csv","lineNumber":32}
+{"id":2098,"_locked":false,"code":"D32","category":"Decline","reasonText":"Number of finance company loans","sourceName":"G1 Reason Codes.csv","lineNumber":33}
+{"id":2099,"_locked":false,"code":"D33","category":"Decline","reasonText":"Number of recent inquiries on credit bureau report","sourceName":"G1 Reason Codes.csv","lineNumber":34}
+{"id":2101,"_locked":false,"code":"D35","category":"Decline","reasonText":"Ratio of balances to total credit lines on all revolving accounts","sourceName":"G1 Reason Codes.csv","lineNumber":36}
+{"id":2102,"_locked":false,"code":"D36","category":"Decline","reasonText":"Request for credit denied due to ineligible membership","sourceName":"G1 Reason Codes.csv","lineNumber":37}
+{"id":2103,"_locked":false,"code":"D37","category":"Decline","reasonText":"Requested amount exceeds recommended limit","sourceName":"G1 Reason Codes.csv","lineNumber":38}
+{"id":2104,"_locked":false,"code":"D38","category":"Decline","reasonText":"Slow or past due in trade or loan payments.","sourceName":"G1 Reason Codes.csv","lineNumber":39}
+{"id":2105,"_locked":false,"code":"D39","category":"Decline","reasonText":"Temporary or irregular employment.","sourceName":"G1 Reason Codes.csv","lineNumber":40}
+{"id":2106,"_locked":false,"code":"D40","category":"Decline","reasonText":"Temporary Residence.","sourceName":"G1 Reason Codes.csv","lineNumber":41}
+{"id":2109,"_locked":false,"code":"D43","category":"Decline","reasonText":"Unable to grant credit to non-members","sourceName":"G1 Reason Codes.csv","lineNumber":44}
+{"id":2110,"_locked":false,"code":"D44","category":"Decline","reasonText":"Unable to verify credit references.","sourceName":"G1 Reason Codes.csv","lineNumber":45}
+{"id":2111,"_locked":false,"code":"D45","category":"Decline","reasonText":"Unable to verify employment.","sourceName":"G1 Reason Codes.csv","lineNumber":46}
+{"id":2112,"_locked":false,"code":"D46","category":"Decline","reasonText":"Unable to verify ID","sourceName":"G1 Reason Codes.csv","lineNumber":47}
+{"id":2113,"_locked":false,"code":"D47","category":"Decline","reasonText":"Unable to verify income.","sourceName":"G1 Reason Codes.csv","lineNumber":48}
+{"id":2114,"_locked":false,"code":"D48","category":"Decline","reasonText":"Unable to verify residence","sourceName":"G1 Reason Codes.csv","lineNumber":49}
+{"id":2115,"_locked":false,"code":"D49","category":"Decline","reasonText":"Unable to verify SSN","sourceName":"G1 Reason Codes.csv","lineNumber":50}
+{"id":2116,"_locked":false,"code":"D50","category":"Decline","reasonText":"Unacceptable type of credit references provided.","sourceName":"G1 Reason Codes.csv","lineNumber":51}
+{"id":2118,"_locked":false,"code":"D52","category":"Decline","reasonText":"Value or type of collateral not sufficient.","sourceName":"G1 Reason Codes.csv","lineNumber":53}
+{"id":2119,"_locked":false,"code":"D53","category":"Decline","reasonText":"We do not accept third party or \"blind\" trades","sourceName":"G1 Reason Codes.csv","lineNumber":54}
+{"id":2120,"_locked":false,"code":"D54","category":"Decline","reasonText":"We do not grant credit on terms and conditions requested","sourceName":"G1 Reason Codes.csv","lineNumber":55}
+{"id":2121,"_locked":false,"code":"NONE","reasonText":"Assigning risk tier  ${creditRequest.creditTier}","sourceName":"Manual Entry","lineNumber":2121,"_priorValues":{"code":[{"newValue":"NONE","updated":1735576480313,"userId":"golden1"}]}}
+{"id":2123,"_locked":false,"code":"R47","category":"Review","reasonText":"Requires Income Verification","sourceName":"Manual Entry","lineNumber":2123,"_priorValues":{"category":[{"newValue":"Review","updated":1735580634294,"userId":"golden1"}]}}
+{"id":2124,"_locked":false,"code":"R11","category":"Review","reasonText":"Max Unsecured Balance to Income","sourceName":"Manual Entry","lineNumber":2124,"_priorValues":{"category":[{"newValue":"Review","updated":1735580634291,"userId":"golden1"}]}}
+{"id":2125,"_locked":false,"code":"R29","category":"Review","reasonText":"Requested Amount Exceeds Tier Max. Manual review required.","sourceName":"Manual Entry","lineNumber":2125,"_priorValues":{"category":[{"newValue":"Review","updated":1735580634294,"userId":"golden1"}]}}
+{"id":2126,"_locked":false,"code":"R28","category":"Review","reasonText":"Applicant has less than 2 tradelines:  ${creditAttributes.numTradelines}","sourceName":"Manual Entry","lineNumber":2126,"_priorValues":{"category":[{"newValue":"Review","updated":1735580634293,"userId":"golden1"}]}}
+{"id":2127,"_locked":false,"code":"R16","category":"Review","reasonText":"Applicant does not have the minimum required disposable income, requires review","sourceName":"Manual Entry","lineNumber":2127,"_priorValues":{"category":[{"newValue":"Review","updated":1735580634293,"userId":"golden1"}]}}
+{"id":2128,"_locked":false,"code":"R02","category":"Review","reasonText":"Loan amount exceeds tier max","sourceName":"Manual Entry","lineNumber":2128,"_priorValues":{"category":[{"newValue":"Review","updated":1735585442866,"userId":"golden1"}]}}
+{"id":2129,"_locked":false,"code":"R56","category":"Review","reasonText":"Max High Credit as % of Requested Amount","sourceName":"Manual Entry","lineNumber":2129,"_priorValues":{"category":[{"newValue":"Review","updated":1735585451845,"userId":"golden1"}]}}
+{"id":2130,"_locked":false,"code":"R55","category":"Review","reasonText":"Max Secured Aggregate Amount With G1 No Mortgage","sourceName":"Manual Entry","lineNumber":2130,"_priorValues":{"category":[{"newValue":"Review","updated":1735585447764,"userId":"golden1"}]}}
+{"id":2131,"_locked":false,"code":"S01","category":"Stipulations","reasonText":"Please confirm monthly income prior to funding and update application as needed.","sourceName":"Manual Entry","lineNumber":2131,"_priorValues":{"category":[{"newValue":"Stipulations","updated":1735585678571,"userId":"golden1"}]}}
+{"id":2132,"_locked":false,"code":"S00","category":"Stipulations","reasonText":"This is a test stip that we send back with every app.","sourceName":"Manual Entry","lineNumber":2132,"_priorValues":{"category":[{"newValue":"Stipulations","updated":1735585668277,"userId":"golden1"}]}}
+{"id":2133,"_locked":false,"code":"S02","category":"Stipulations","reasonText":"Proof of Income (VLI)","sourceName":"Manual Entry","lineNumber":2133,"_priorValues":{"category":[{"newValue":"Stipulations","updated":1735585678573,"userId":"golden1"}]}}
+{"id":2134,"_locked":false,"code":"S04","category":"Stipulations","reasonText":"Only 1 personal loan per primary member, at any time","sourceName":"Manual Entry","lineNumber":2134,"_priorValues":{"category":[{"newValue":"Stipulations","updated":1735585678575,"userId":"golden1"}]}}
+{"id":2135,"_locked":false,"code":"S03","category":"Stipulations","reasonText":"Written application required- Please obtain signed and initialed \"Take One\" application","sourceName":"Manual Entry","lineNumber":2135,"_priorValues":{"category":[{"newValue":"Stipulations","updated":1735585678574,"userId":"golden1"}]}}
+{"id":2136,"_locked":false,"code":"S06","category":"Stipulations","reasonText":"Verify final rate, term, and loan amount are within guidelines for year, mileage, and LTV","sourceName":"Manual Entry","lineNumber":2136,"_priorValues":{"category":[{"newValue":"Stipulations","updated":1735585678577,"userId":"golden1"}]}}
+{"id":2137,"_locked":false,"code":"S05","category":"Stipulations","reasonText":"Verify Total Vehicle Value with TLP for used and MSRP for new unit prior to funding","sourceName":"Manual Entry","lineNumber":2137,"_priorValues":{"category":[{"newValue":"Stipulations","updated":1735585678575,"userId":"golden1"}]}}
+{"id":2138,"_locked":false,"code":"S07","category":"Stipulations","reasonText":"Insert from the lookup...","sourceName":"Manual Entry","lineNumber":2138,"_priorValues":{"category":[{"newValue":"Stipulations","updated":1735585678578,"userId":"golden1"}]}}
+{"id":2139,"_locked":false,"code":"R42","reasonText":"Zest score 9998.","sourceName":"Manual Entry","lineNumber":2139}
+{"id":2140,"_locked":false,"code":"RCC001","reasonText":"Debt to Income exceeding 80% requires manual review","sourceName":"Manual Entry","lineNumber":2140}
+{"id":2141,"_locked":false,"code":"DCC005","sourceName":"Manual Entry","lineNumber":2141}
+{"id":2142,"_locked":false,"code":"DCC006","reasonText":"Debt to Income exceeds maximum of 90%","sourceName":"Manual Entry","lineNumber":2142}
+{"id":2143,"_locked":false,"code":"DCC007","reasonText":"Non mortgage secured loan amount with Golden1 exceeds $700,000","sourceName":"Manual Entry","lineNumber":2143}
+{"id":2144,"_locked":false,"code":"DCC008","reasonText":"Unsecured loan balance with Golden1 exceeds $75,000","sourceName":"Manual Entry","lineNumber":2144}
+{"id":2145,"_locked":false,"code":"DCC009","sourceName":"Manual Entry","lineNumber":2145}
+{"id":2146,"_locked":false,"code":"DCC001","reasonText":"One or more applicants have had a bankruptcy last 12 months","sourceName":"Manual Entry","lineNumber":2146}
+{"id":2147,"_locked":false,"code":"DCC002","reasonText":"One or more applicants have had a bankruptcy last 12 months","sourceName":"Manual Entry","lineNumber":2147}
+{"id":2148,"_locked":false,"code":"DCC003","reasonText":"Charge off of more than $2,500 in the last 24 months","sourceName":"Manual Entry","lineNumber":2148}
+{"id":2149,"_locked":false,"code":"DCC010","reasonText":"Total unsecured loan amount exceeds $50,000","sourceName":"Manual Entry","lineNumber":2149}
+{"id":2150,"_locked":false,"code":"DCC013","reasonText":"One or more applicants have had a Tier 0-2 bankruptcy in the last 12 months","sourceName":"Manual Entry","lineNumber":2150}
+{"id":2151,"_locked":false,"code":"RCC003","reasonText":"Annual Income provided exceeds $1 million, review income","sourceName":"Manual Entry","lineNumber":2151}
+{"id":2152,"_locked":false,"code":"maxpti","reasonText":"PTI is too high","sourceName":"Manual Entry","lineNumber":2152}
+{"id":2153,"_locked":false,"code":"Purpose Type","reasonText":"Purpose type ${purposeType} requires manual review","sourceName":"Manual Entry","lineNumber":2153}

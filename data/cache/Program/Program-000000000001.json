@@ -1,0 +1,3 @@
+{"id":4,"_locked":false,"program":"Personal Loan","programNumber":2,"code":"personal","zestModelName":"personalloan_modelshop","description":"Unsecured loans and lines of credit","sourceName":"Program.csv","lineNumber":2}
+{"id":5,"_locked":false,"program":"Vehicle","programNumber":3,"code":"vehicle","zestModelName":"auto_modelshop","description":"Auto, RV and motorcycle secured loans","sourceName":"Program.csv","lineNumber":3}
+{"id":6,"_locked":false,"program":"Credit Card","programNumber":1,"code":"credit-card","zestModelName":"creditcard_modelshop","description":"Unsecured credit card","sourceName":"Program.csv","lineNumber":1}

@@ -1,0 +1,10 @@
+{"id":1,"_locked":false,"designator":0,"description":"BANKRUPTCY","sourceName":"EfxAppendix_EfxPublicRecordDesignator.csv","lineNumber":1}
+{"id":2,"_locked":false,"designator":7,"description":"NOT USED","sourceName":"EfxAppendix_EfxPublicRecordDesignator.csv","lineNumber":2}
+{"id":3,"_locked":false,"designator":8,"description":"RESERVED","sourceName":"EfxAppendix_EfxPublicRecordDesignator.csv","lineNumber":3}
+{"id":4,"_locked":false,"designator":9,"description":"SPECIAL USES","sourceName":"EfxAppendix_EfxPublicRecordDesignator.csv","lineNumber":4}
+{"id":5,"_locked":false,"designator":1,"description":"JUDGMENTS, SUITS & WAGE ASSIGNMENTS","sourceName":"EfxAppendix_EfxPublicRecordDesignator.csv","lineNumber":5}
+{"id":6,"_locked":false,"designator":2,"description":"MECHANICS LIEN","sourceName":"EfxAppendix_EfxPublicRecordDesignator.csv","lineNumber":6}
+{"id":7,"_locked":false,"designator":3,"description":"FEDERAL TAX LIEN","sourceName":"EfxAppendix_EfxPublicRecordDesignator.csv","lineNumber":7}
+{"id":8,"_locked":false,"designator":4,"description":"STATE TAX LIEN","sourceName":"EfxAppendix_EfxPublicRecordDesignator.csv","lineNumber":8}
+{"id":9,"_locked":false,"designator":5,"description":"COUNTY TAX LIEN","sourceName":"EfxAppendix_EfxPublicRecordDesignator.csv","lineNumber":9}
+{"id":10,"_locked":false,"designator":6,"description":"CITY TAX LIEN","sourceName":"EfxAppendix_EfxPublicRecordDesignator.csv","lineNumber":10}

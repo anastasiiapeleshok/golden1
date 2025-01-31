@@ -1,0 +1,16 @@
+{"id":17,"_locked":false,"factor":"Tier","value":"1","adjustment":0.0065,"sourceName":"Auto Rates Validated.csv","lineNumber":1}
+{"id":18,"_locked":false,"factor":"Tier","value":"2","adjustment":0.015,"sourceName":"Auto Rates Validated.csv","lineNumber":2}
+{"id":19,"_locked":false,"factor":"Base Rate","value":"Prime","adjustment":0.0604,"sourceName":"Auto Rates Validated.csv","lineNumber":4}
+{"id":20,"_locked":false,"factor":"Tier","value":"3","adjustment":0.026,"sourceName":"Auto Rates Validated.csv","lineNumber":3}
+{"id":21,"_locked":false,"factor":"Region","value":"South","adjustment":0.003,"sourceName":"Auto Rates Validated.csv","lineNumber":8}
+{"id":22,"_locked":false,"factor":"Used","value":"TRUE","adjustment":0.0025,"sourceName":"Auto Rates Validated.csv","lineNumber":7}
+{"id":23,"_locked":false,"factor":"Age Class","value":"10-15 yrs < 100K","adjustment":0.03,"sourceName":"Auto Rates Validated.csv","lineNumber":9}
+{"id":24,"_locked":false,"factor":"LTV","min":0.9,"max":1.15,"adjustment":0.003,"sourceName":"Auto Rates Validated.csv","lineNumber":12}
+{"id":25,"_locked":false,"factor":"Tier","value":"5","adjustment":0.055,"sourceName":"Auto Rates Validated.csv","lineNumber":6}
+{"id":26,"_locked":false,"factor":"LTV","min":0.0,"max":0.95,"adjustment":0.00,"sourceName":"Auto Rates Validated.csv","lineNumber":11}
+{"id":27,"_locked":false,"factor":"LTV","min":1.15,"max":10.0,"adjustment":0.009,"sourceName":"Auto Rates Validated.csv","lineNumber":13}
+{"id":28,"_locked":false,"factor":"Term","min":0.0,"max":60.0,"adjustment":0.00,"sourceName":"Auto Rates Validated.csv","lineNumber":14}
+{"id":29,"_locked":false,"factor":"Term","min":60.0,"max":72.0,"adjustment":0.003,"sourceName":"Auto Rates Validated.csv","lineNumber":15}
+{"id":30,"_locked":false,"factor":"Age Class","value":"10-15 yrs > 100K","adjustment":0.0375,"sourceName":"Auto Rates Validated.csv","lineNumber":10}
+{"id":31,"_locked":false,"factor":"Term","min":72.0,"max":84.0,"adjustment":0.0065,"sourceName":"Auto Rates Validated.csv","lineNumber":16}
+{"id":32,"_locked":false,"factor":"Tier","value":"4","adjustment":0.055,"sourceName":"Auto Rates Validated.csv","lineNumber":5}

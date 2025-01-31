@@ -1,0 +1,39 @@
+Program Version,Program,Attribute,Value,Adjustment,sourceName,lineNumber,Type
+1,Personal Loan,Personal Loan Segment,3A,$0.00 ,Amount Factors (1).csv,24,Amount
+1,Personal Loan,Personal Loan Segment,4A,$0.00 ,Amount Factors (1).csv,25,Amount
+1,Personal Loan,Personal Loan Segment,5A,"($5,000.00)",Amount Factors (1).csv,26,Amount
+1,Personal Loan,Personal Loan Segment,6A,"($5,000.00)",Amount Factors (1).csv,27,Amount
+1,Personal Loan,Personal Loan Segment,7A,"($15,000.00)",Amount Factors (1).csv,28,Amount
+1,Personal Loan,Personal Loan Segment,8A,"($20,000.00)",Amount Factors (1).csv,29,Amount
+1,Personal Loan,Personal Loan Segment,1B,"($5,000.00)",Amount Factors (1).csv,30,Amount
+1,Personal Loan,Personal Loan Segment,2B,"($5,000.00)",Amount Factors (1).csv,31,Amount
+1,Personal Loan,Personal Loan Segment,3B,"($5,000.00)",Amount Factors (1).csv,32,Amount
+1,Personal Loan,Personal Loan Segment,4B,"($15,000.00)",Amount Factors (1).csv,33,Amount
+1,Personal Loan,Personal Loan Segment,5B,"($20,000.00)",Amount Factors (1).csv,34,Amount
+1,Personal Loan,Personal Loan Segment,6B,"($20,000.00)",Amount Factors (1).csv,35,Amount
+1,Personal Loan,Personal Loan Term Bucket,Long,$0.00 ,Amount Factors (1).csv,36,Amount
+1,Personal Loan,Personal Loan Term Bucket,Medium,$0.00 ,Amount Factors (1).csv,37,Amount
+1,Personal Loan,Personal Loan Term Bucket,Short,$0.00 ,Amount Factors (1).csv,38,Amount
+1,Credit Card,Card Segment,1A,"$20,500.00 ",Amount Factors (1).csv,1,Line
+1,Credit Card,Card Segment,2A,"$19,000.00 ",Amount Factors (1).csv,2,Line
+1,Credit Card,Card Segment,3A,"$18,000.00 ",Amount Factors (1).csv,3,Line
+1,Credit Card,Card Segment,5A,"$15,500.00 ",Amount Factors (1).csv,4,Line
+1,Credit Card,Card Segment,4A,"$16,500.00 ",Amount Factors (1).csv,5,Line
+1,Credit Card,Card Segment,2B,"$15,500.00 ",Amount Factors (1).csv,8,Line
+1,Credit Card,Card Segment,1B,"$16,500.00 ",Amount Factors (1).csv,9,Line
+1,Credit Card,Card Segment,6A,"$14,500.00 ",Amount Factors (1).csv,6,Line
+1,Credit Card,Card Segment,3B,"$9,000.00 ",Amount Factors (1).csv,10,Line
+1,Credit Card,Card Segment,7A,"$14,000.00 ",Amount Factors (1).csv,7,Line
+1,Credit Card,Card Segment,4B,"$8,250.00 ",Amount Factors (1).csv,11,Line
+1,Credit Card,Card Segment,5B,"$7,750.00 ",Amount Factors (1).csv,12,Line
+1,Credit Card,Card Segment,6B,"$7,250.00 ",Amount Factors (1).csv,13,Line
+1,Credit Card,Card Segment,8A,"$13,000.00 ",Amount Factors (1).csv,14,Line
+1,Credit Card,Utilization Tier,Mid,"($2,000.00)",Amount Factors (1).csv,15,Line
+1,Credit Card,Utilization Tier,Low,"($4,000.00)",Amount Factors (1).csv,16,Line
+1,Credit Card,Utilization Tier,High,$0.00 ,Amount Factors (1).csv,17,Line
+1,Credit Card,Income Tier,Low,"($4,000.00)",Amount Factors (1).csv,18,Line
+1,Credit Card,Income Tier,Mid,"($2,000.00)",Amount Factors (1).csv,19,Line
+1,Credit Card,Income Tier,High,$0.00 ,Amount Factors (1).csv,20,Line
+1,Personal Loan,Base Amount,,"$35,000.00 ",Amount Factors (1).csv,21,Amount
+1,Personal Loan,Personal Loan Segment,1A,$0.00 ,Amount Factors (1).csv,22,Amount
+1,Personal Loan,Personal Loan Segment,2A,$0.00 ,Amount Factors (1).csv,23,Amount

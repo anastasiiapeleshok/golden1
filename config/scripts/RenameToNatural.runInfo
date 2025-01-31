@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<ns7:scriptRunInfo xsi:type="ns7:ScriptRunInfo" preamble="Job job = scripts.getJob(1858);" lastExecuted="2024-06-29T13:34:38.434-04:00" status="Complete" jobId="1858" id="SCRIPT:Rename to Natural" xmlns:ns6="http://www.modelshop.com/model/model/types" xmlns:ns5="http://www.modelshop.com/datacore/generator/types" xmlns:ns7="http://www.modelshop.com/datacore/script/types" xmlns:ns2="http://www.modelshop.com/datacore/view/types" xmlns:ns4="http://www.modelshop.com/datacore/repository/types" xmlns:ns3="http://www.modelshop.com/datacore/message/types" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <results>Script Rename to Natural completed in 76 ms at 2024-06-29 13:34:38</results>
+    <results>No such property: Name for type: com.modelshop.model.model.types.ModelConfig</results>
+    <results>Stack Trace:</results>
+    <results>org.codehaus.groovy.runtime.ScriptBytecodeAdapter.unwrap(ScriptBytecodeAdapter.java:65)</results>
+    <results>org.codehaus.groovy.runtime.callsite.GetEffectivePojoPropertySite.getProperty(GetEffectivePojoPropertySite.java:65)</results>
+    <results>org.codehaus.groovy.runtime.callsite.AbstractCallSite.callGetProperty(AbstractCallSite.java:298)</results>
+    <results>Script58$_run_closure1.doCall(Script58.groovy:5)</results>
+    <results>java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)</results>
+    <results>java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)</results>
+    <results>java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)</results>
+    <results>java.base/java.lang.reflect.Method.invoke(Method.java:566)</results>
+    <results>org.codehaus.groovy.reflection.CachedMethod.invoke(CachedMethod.java:101)</results>
+    <results>groovy.lang.MetaMethod.doMethodInvoke(MetaMethod.java:323)</results>
+    <results>org.codehaus.groovy.runtime.metaclass.ClosureMetaClass.invokeMethod(ClosureMetaClass.java:263)</results>
+    <results>groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1052)</results>
+    <results>groovy.lang.Closure.call(Closure.java:405)</results>
+    <results>groovy.lang.Closure.call(Closure.java:421)</results>
+    <results>org.codehaus.groovy.runtime.DefaultGroovyMethods.each(DefaultGroovyMethods.java:2301)</results>
+    <results>org.codehaus.groovy.runtime.DefaultGroovyMethods.each(DefaultGroovyMethods.java:2286)</results>
+    <results>org.codehaus.groovy.runtime.DefaultGroovyMethods.each(DefaultGroovyMethods.java:2327)</results>
+    <results>org.codehaus.groovy.runtime.dgm$186.invoke(Unknown Source)</results>
+    <results>org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite$PojoMetaMethodSiteNoUnwrapNoCoerce.invoke(PojoMetaMethodSite.java:244)</results>
+    <results>org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite.call(PojoMetaMethodSite.java:53)</results>
+    <results>org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:47)</results>
+    <results>org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:115)</results>
+    <results>org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:127)</results>
+    <results>Script58.run(Script58.groovy:4)</results>
+    <results>groovy.lang.GroovyShell.evaluate(GroovyShell.java:437)</results>
+    <results>groovy.lang.GroovyShell.evaluate(GroovyShell.java:475)</results>
+    <results>groovy.lang.GroovyShell.evaluate(GroovyShell.java:446)</results>
+    <results>com.modelshop.datacore.generator.languages.groovy.GroovyConsole.evaluate(GroovyConsole.java:376)</results>
+    <results>com.modelshop.datacore.generator.languages.groovy.GroovyConsole$2.execute(GroovyConsole.java:297)</results>
+    <results>com.modelshop.util.jobs.Job.run(Job.java:249)</results>
+    <results>java.base/java.lang.Thread.run(Thread.java:834)</results>
+    <results>com.modelshop.util.jobs.JobThread.run(JobThread.java:187)</results>
+</ns7:scriptRunInfo>

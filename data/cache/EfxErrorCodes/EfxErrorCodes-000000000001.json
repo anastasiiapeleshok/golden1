@@ -1,0 +1,323 @@
+{"id":1,"_locked":false,"code":0,"errorText":"NORMAL, NO ACTION REQUIRED","action":"N","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":1}
+{"id":2,"_locked":false,"code":5,"errorText":"M- KEYWORD ERROR","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":6}
+{"id":3,"_locked":false,"code":1,"errorText":"*** SYSTEM TEMPORARILY UNAVAILABLE.  PLEASE RESUBMIT  ***","action":"R","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":2}
+{"id":4,"_locked":false,"code":4,"errorText":"FORMAT ERROR; RETYPE INQUIRY (OP/R/T)","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":5}
+{"id":5,"_locked":false,"code":3,"errorText":"ENTER CHARACTER NOT IN CORRECT POSITION","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":4}
+{"id":6,"_locked":false,"code":2,"errorText":"INVALID LENGTH INQUIRY, EXCEEDS MAXIMUM LENGTH","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":3}
+{"id":7,"_locked":false,"code":15,"errorText":"AMT- AMOUNT FIELD FORMAT ERROR","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":10}
+{"id":8,"_locked":false,"code":16,"errorText":"KEYING ERROR DETECTED IN EPIN- KEYWORD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":11}
+{"id":9,"_locked":false,"code":14,"errorText":"T- TYPE/TERMS/AMOUNT FIELD FORMAT ERROR","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":9}
+{"id":10,"_locked":false,"code":13,"errorText":"FORMAT ERROR; RETYPE INQUIRY (KW)","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":8}
+{"id":11,"_locked":false,"code":18,"errorText":"INFORMATION FROM THE INQUIRY WAS REPORTED AS FRAUD BY THE CONSUMER","action":"I","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":12}
+{"id":12,"_locked":false,"code":19,"errorText":"EMPLOYMENT FIELD FORMAT ERROR","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":13}
+{"id":13,"_locked":false,"code":31,"errorText":"INVALID SUBSCRIBER NUMBER","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":14}
+{"id":14,"_locked":false,"code":32,"errorText":"BULLSEYE X- KEYWORD ACCOUNT NUMBER ERROR","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":15}
+{"id":15,"_locked":false,"code":10,"errorText":"CONSUMER IS A MINOR","action":"I","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":7}
+{"id":16,"_locked":false,"code":34,"errorText":"INVALID USE OF *B* KEYWORD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":16}
+{"id":17,"_locked":false,"code":40,"errorText":"INVALID USE OF *C* KEYWORD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":19}
+{"id":18,"_locked":false,"code":41,"errorText":"INVALID DATA IN *C* KEYWORD FIELD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":20}
+{"id":19,"_locked":false,"code":43,"errorText":"INVALID USE OF QUEST TYPE CODE","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":21}
+{"id":20,"_locked":false,"code":45,"errorText":"INVALID SURNAME","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":22}
+{"id":21,"_locked":false,"code":47,"errorText":"CURRENT HOUSE NUMBER ERROR","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":23}
+{"id":22,"_locked":false,"code":37,"errorText":"INVALID YOB","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":18}
+{"id":23,"_locked":false,"code":49,"errorText":"CURRENT ZIP CODE ERROR","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":24}
+{"id":24,"_locked":false,"code":51,"errorText":"CBR MEMBERS MAY NOT ACCESS THROUGH EXPERIAN","action":"I","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":25}
+{"id":25,"_locked":false,"code":54,"errorText":"PREVIOUS HOUSE NUMBER ERROR","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":27}
+{"id":26,"_locked":false,"code":53,"errorText":"INVALID SOCIAL SECURITY NUMBER","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":26}
+{"id":27,"_locked":false,"code":35,"errorText":"INVALID DATA IN *B* KEYWORD FIELD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":17}
+{"id":28,"_locked":false,"code":55,"errorText":"INVALID PREVIOUS STREET ADDRESS FIELD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":28}
+{"id":29,"_locked":false,"code":56,"errorText":"PREVIOUS ZIP CODE ERROR","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":29}
+{"id":30,"_locked":false,"code":58,"errorText":"I/O ERROR  PLEASE RESUBMIT","action":"R","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":30}
+{"id":31,"_locked":false,"code":61,"errorText":"INVALID GENERATION CODE- (Obsolete)","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":31}
+{"id":32,"_locked":false,"code":66,"errorText":"LOGONLY PROCESSED  (Returned by Secondary Use inquiries for Fannie Mae and Freddie Mac to indicate that the inquiry was processed successfully)","action":"I","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":32}
+{"id":33,"_locked":false,"code":67,"errorText":"SUBSCRIBER NOT ALLOWED TO INQUIRE","action":"I","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":33}
+{"id":34,"_locked":false,"code":73,"errorText":"ZIP CODE REQUIRED","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":34}
+{"id":35,"_locked":false,"code":74,"errorText":"INVALID SECURITY PASSWORD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":35}
+{"id":36,"_locked":false,"code":75,"errorText":"INQUIRY ONLY REQUEST NOT PROCESSED  ONFILE INQUIRY NOT FOUND","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":36}
+{"id":37,"_locked":false,"code":76,"errorText":"INQUIRY NOT ALLOWED","action":"R","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":37}
+{"id":38,"_locked":false,"code":80,"errorText":"INVALID INQUIRY TYPE","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":38}
+{"id":39,"_locked":false,"code":88,"errorText":"ONLY ONE SCORE DISTRIBUTION KEYWORD ALLOWED","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":39}
+{"id":40,"_locked":false,"code":89,"errorText":"SCORE DISTRUIBTION MODEL NOT AVAILABLE","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":40}
+{"id":41,"_locked":false,"code":90,"errorText":"SCORE DISTRIBUTION PRODUCTION CODE NOT AVAILABLE","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":41}
+{"id":42,"_locked":false,"code":92,"errorText":"STATE LEGISLATION REQUIRES MATCH ON MORE IDENTIFICATION INFORMATION","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":42}
+{"id":43,"_locked":false,"code":96,"errorText":"VERSION # FIELD FORMAT ERROR","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":43}
+{"id":44,"_locked":false,"code":98,"errorText":"INVALID USE OF *D* KEYWORD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":44}
+{"id":45,"_locked":false,"code":99,"errorText":"FORMAT ERROR IN *H* KEYWORD FIELD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":45}
+{"id":46,"_locked":false,"code":106,"errorText":"Invalid Surname- Precise ID Only","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":46}
+{"id":47,"_locked":false,"code":110,"errorText":"Z- KEYWORD FORMAT ERROR","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":47}
+{"id":48,"_locked":false,"code":112,"errorText":"R- KEYWORD FORMAT ERROR","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":48}
+{"id":49,"_locked":false,"code":114,"errorText":"X, F, OR G KEYWORD FORMAT ERROR","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":49}
+{"id":50,"_locked":false,"code":115,"errorText":"X, F, G, OR K- KEYWORD ONE PER INQUIRY","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":50}
+{"id":51,"_locked":false,"code":117,"errorText":"X- OR F- KEYWORD NOT NUMERIC","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":51}
+{"id":52,"_locked":false,"code":130,"errorText":"SPOUSE EMPLOYMENT FORMAT ERROR","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":52}
+{"id":53,"_locked":false,"code":133,"errorText":"SP- KEYWORD ERROR","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":53}
+{"id":54,"_locked":false,"code":139,"errorText":"INVALID SPOUSE SOCIAL SECURITY NUMBER","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":54}
+{"id":55,"_locked":false,"code":145,"errorText":"K- KEYWORD FORMAT ERROR","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":55}
+{"id":56,"_locked":false,"code":153,"errorText":"TYPE 51 IS NOT ALLOWED WITH T- KEYWORD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":56}
+{"id":57,"_locked":false,"code":155,"errorText":"FORMAT ERROR IN *O* KEYWORD FIELD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":57}
+{"id":58,"_locked":false,"code":160,"errorText":"INVALID VERSION REQUESTED","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":58}
+{"id":59,"_locked":false,"code":163,"errorText":"INVALID L- KEYWORD, PLEASE RESUBMIT","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":59}
+{"id":60,"_locked":false,"code":170,"errorText":"INVALID USE OF 9- KEYWORD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":60}
+{"id":61,"_locked":false,"code":173,"errorText":"INVALID INQUIRY TYPE FOR REPORT CODE","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":61}
+{"id":62,"_locked":false,"code":175,"errorText":"INVALID DATA FOR RM- KEYWORD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":62}
+{"id":63,"_locked":false,"code":176,"errorText":"VERIFY-AA REQUIRED","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":63}
+{"id":64,"_locked":false,"code":189,"errorText":"TRADE INFORMATION TEMPORARILY UNAVAILABLE. PLEASE RESUBMIT","action":"R","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":64}
+{"id":65,"_locked":false,"code":190,"errorText":"SOFTWARE VALIDATION NEEDED. CALL  800-854-7201","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":65}
+{"id":66,"_locked":false,"code":192,"errorText":"M- KEYWORD MUST HAVE AN ADDRESS WITH ZIP","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":66}
+{"id":67,"_locked":false,"code":200,"errorText":"BINGO  YOUR INPUT IS CORRECT (response for ZZ training inquiry accepted)","action":"I","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":67}
+{"id":68,"_locked":false,"code":210,"errorText":"ERROR OCCURRED ACCESSING SUBSCRIBER DATA","action":"I","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":68}
+{"id":69,"_locked":false,"code":211,"errorText":"SUBSCRIBER DATA NOT FOUND","action":"I","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":69}
+{"id":70,"_locked":false,"code":212,"errorText":"SUBSCRIBERS CUSTOM FORMAT DATA NOT FOUND","action":"I","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":70}
+{"id":71,"_locked":false,"code":213,"errorText":"ACCESS DENIED  VERMONT CONSUMER","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":71}
+{"id":72,"_locked":false,"code":215,"errorText":"AP/RETAIL SEARCH DID NOT COMPLETE IN ALLOWED TIME","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":72}
+{"id":73,"_locked":false,"code":216,"errorText":"FULL ADDRESS REQUIRED TO REQUEST AP/RETAIL","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":73}
+{"id":74,"_locked":false,"code":217,"errorText":"VALID CHKPT- KEYWORD REQUIRED TO REQUEST AP/RETAIL REPORT","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":74}
+{"id":75,"_locked":false,"code":218,"errorText":"Lexis Nexis Frozen File  Data Not accessible for Model Calculation\nNotes:  This message is only applicable to the model Lift Premium Model","action":"I","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":75}
+{"id":76,"_locked":false,"code":222,"errorText":"YOUR SUBS ACCESS NO. IS INACTIVE. \\ PLEASE CALL YOUR EXPERIAN REP FOR REACTIVATION","action":"I","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":76}
+{"id":77,"_locked":false,"code":223,"errorText":"CONSUMER TOO YOUNG FOR PRESCREENS","action":"I","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":77}
+{"id":78,"_locked":false,"code":224,"errorText":"EXPERIAN BUSINESS RULES APPLIED, CREDIT REPORT NOT AVAILABLE TO USER","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":78}
+{"id":79,"_locked":false,"code":226,"errorText":"PERMISSIBLE PURPOSE IS NOT ALLOWED BY LEXIS NEXIS","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":79}
+{"id":80,"_locked":false,"code":230,"errorText":"VALID SSN OR ITIN REQUIRED","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":80}
+{"id":81,"_locked":false,"code":231,"errorText":"CLARITY ACCT ID, LOCATION ID AND FILE NAME REQUIRED","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":81}
+{"id":82,"_locked":false,"code":232,"errorText":"CLARITY ERROR\nError message from Clarity.  There was an error at Clarity, the most likely cause of\nwhich is related to Account Id, Location Id and / or Control File Name that is supplied\nat the input. Verify these inputs, correct and resubmit the inquiry","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":82}
+{"id":83,"_locked":false,"code":233,"errorText":"GO- keyword missing    (Returned via AscendOps platform only)","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":83}
+{"id":84,"_locked":false,"code":234,"errorText":"Solution ID Not Found (Returned via AscendOps platform only)","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":84}
+{"id":85,"_locked":false,"code":235,"errorText":"Internal processing error (Ascend Ops). Please resubmit.","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":85}
+{"id":86,"_locked":false,"code":250,"errorText":"ROUTING ERROR:  RR-APS EXPECTED BUT NOT PRESENT","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":86}
+{"id":87,"_locked":false,"code":251,"errorText":"CIT- KEYWORD FORMAT ERROR","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":87}
+{"id":88,"_locked":false,"code":252,"errorText":"APS- KEYWORD FORMAT ERROR","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":88}
+{"id":89,"_locked":false,"code":253,"errorText":"DUPLICATE KEYWORD FOR APS, REQUEST NOT ALLOWED","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":89}
+{"id":90,"_locked":false,"code":254,"errorText":"REQUESTED VERSION NUMBER NOT SUPPORTED FOR ONE OR MORE REQUESTED PRODUCTS","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":90}
+{"id":91,"_locked":false,"code":255,"errorText":"CIT- KEYWORD MUST CONTAIN X","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":91}
+{"id":92,"_locked":false,"code":257,"errorText":"ONE OR MORE REPORT REQUESTS DID NOT COMPLETE IN ALLOWED TIME","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":92}
+{"id":93,"_locked":false,"code":258,"errorText":"ONE OR MORE REQUESTED REPORTS UNAVAILABLE AT THIS TIME  PLEASE RESUBMIT LATER","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":93}
+{"id":94,"_locked":false,"code":259,"errorText":"COMPONENT OF CHECKPOINT SYSTEM TEMPORARILY UNAVAILABLE. PLEASE RESUBMIT","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":94}
+{"id":95,"_locked":false,"code":260,"errorText":"ATB PROCESSING ERROR","action":"R","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":95}
+{"id":96,"_locked":false,"code":261,"errorText":"STRATEGY MANAGER PROCESSING ERROR","action":"R","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":96}
+{"id":97,"_locked":false,"code":301,"errorText":"CONSUMER CREDIT REPORT REQUIRED WITH NFD REPORT","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":97}
+{"id":98,"_locked":false,"code":302,"errorText":"NFD- KEYWORD MISSING OR MULTIPLES FOUND","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":98}
+{"id":99,"_locked":false,"code":304,"errorText":"*** NFD TEMPORARILY UNAVAILABLE.  PLEASE RESUBMIT ***","action":"R","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":99}
+{"id":100,"_locked":false,"code":305,"errorText":"NFD MEMBER NUMBER MISSING OR INVALID","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":100}
+{"id":101,"_locked":false,"code":306,"errorText":"NFD CREDIT APPLICATION TYPE MISSING OR INVALID","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":101}
+{"id":102,"_locked":false,"code":307,"errorText":"NFD ACTION CODE MISSING OR INVALID","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":102}
+{"id":103,"_locked":false,"code":308,"errorText":"CONSUMER NAME FIELD MISSING OR INVALID","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":103}
+{"id":104,"_locked":false,"code":309,"errorText":"CONSUMER SOCIAL SECURITY NUMBER MISSING OR INVALID","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":104}
+{"id":105,"_locked":false,"code":310,"errorText":"APPLICANT ADDRESS FIELD MISSING OR INVALID","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":105}
+{"id":106,"_locked":false,"code":311,"errorText":"SPOUSE NAME FIELD MISSING OR INVALID","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":106}
+{"id":107,"_locked":false,"code":312,"errorText":"SPOUSE SOCIAL SECURITY NUMBER MISSING OR INVALID","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":107}
+{"id":108,"_locked":false,"code":313,"errorText":"NFD DOES NOT PROCESS INQUIRIES WITH A COLORADO ZIP CODE","action":"I","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":108}
+{"id":109,"_locked":false,"code":314,"errorText":"TYPE CODE MISSING OR INVALID","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":109}
+{"id":110,"_locked":false,"code":318,"errorText":"PERMISSIBLE PURPOSE REQUIRED FOR NATIONAL FRAUD DATABASE","action":"R","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":110}
+{"id":111,"_locked":false,"code":319,"errorText":"SSF INQUIRY NOT SUPPORTED","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":111}
+{"id":112,"_locked":false,"code":320,"errorText":"NOT ALLOWED TO RECEIVE EXPERIAN DETECT PRODUCT","action":"R","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":112}
+{"id":113,"_locked":false,"code":321,"errorText":"BLOCKED CONSUMER, EXPERIAN DETECT PROCESS NOT DENIED","action":"R","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":113}
+{"id":114,"_locked":false,"code":322,"errorText":"SUBSCRIBER NOT SETUP ON EXPERIAN DETECT DATABASE, PLEASE CONTACT EXPERIAN","action":"R","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":114}
+{"id":115,"_locked":false,"code":323,"errorText":"NOT ALL DATA AVAILABLE FOR EXPERIAN DETECT EVALUATION","action":"R","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":115}
+{"id":116,"_locked":false,"code":324,"errorText":"EXPERIAN DETECT TEMPORARILY UNAVAILABLE","action":"R","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":116}
+{"id":117,"_locked":false,"code":325,"errorText":"NOT ALLOWED TO USE DTONLY OPTION","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":117}
+{"id":118,"_locked":false,"code":326,"errorText":"SECOND LINE OF ADDRESS EXCEEDS 48 CHARACTERS MAX SIZE. PLEASE CORRECT AND RESUBMIT","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":118}
+{"id":119,"_locked":false,"code":327,"errorText":"(Reserved)","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":119}
+{"id":120,"_locked":false,"code":330,"errorText":"RETRO- DATE INVALID","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":120}
+{"id":121,"_locked":false,"code":331,"errorText":"MEMBER NUMBER NOT ASSOCIATED WITH SUBSCRIBER NUMBER","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":121}
+{"id":122,"_locked":false,"code":332,"errorText":"MEMBER NOT ALLOWED ADMIN ACCESS","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":122}
+{"id":123,"_locked":false,"code":333,"errorText":"RETRO- KEYWORD AND ADMIN ACCESS PARAMETER CANNOT BE COMBINED","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":123}
+{"id":124,"_locked":false,"code":334,"errorText":"DATE RANGE NOT ALLOWED WITH RETRO- KEYWORD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":124}
+{"id":125,"_locked":false,"code":335,"errorText":"(Reserved for ICPs 18334 and 18497 4/28/05)","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":125}
+{"id":126,"_locked":false,"code":336,"errorText":"(Reserved for ICPs 18334 and 18497 4/28/05)","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":126}
+{"id":127,"_locked":false,"code":340,"errorText":"RETRIEVED PINS EXCEED MAXIMUM ALLOCATED SPACE","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":127}
+{"id":128,"_locked":false,"code":350,"errorText":"NOT ALLOWED TO RECEIVE PRECISE ID PRODUCT","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":128}
+{"id":129,"_locked":false,"code":351,"errorText":"PID- KEYWORD MISSING OR FORMAT ERROR","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":129}
+{"id":130,"_locked":false,"code":352,"errorText":"PRECISE ID SYSTEM TEMPORARILY UNAVAILABLE","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":130}
+{"id":131,"_locked":false,"code":353,"errorText":"ICSCN- KEYWORD FORMAT ERROR","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":131}
+{"id":132,"_locked":false,"code":354,"errorText":"ICSCS- KEYWORD FORMAT ERROR","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":132}
+{"id":133,"_locked":false,"code":355,"errorText":"NOT AUTHORIZED FOR GLB","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":133}
+{"id":134,"_locked":false,"code":356,"errorText":"NOT AUTHORIZED FOR FCRA","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":134}
+{"id":135,"_locked":false,"code":357,"errorText":"NOT AUTHORIZED FOR NFD ONLY","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":135}
+{"id":136,"_locked":false,"code":358,"errorText":"FRAUD SHIELD UNAVAILABLE","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":136}
+{"id":137,"_locked":false,"code":359,"errorText":"INVALID SSN FOR THIS PRECISE ID INQUIRY TYPE","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":137}
+{"id":138,"_locked":false,"code":360,"errorText":"NOT AUTHORIZED FOR FCRA PRECISE ID WITH CREDIT REPORT","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":138}
+{"id":139,"_locked":false,"code":361,"errorText":"INVALID SSN FORMAT","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":139}
+{"id":140,"_locked":false,"code":362,"errorText":"CREDIT REPORTING TEMPORARILY UNAVAILABLE","action":"I","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":140}
+{"id":141,"_locked":false,"code":378,"errorText":"EXPANDED INQUIRY FORMAT REQUIRED","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":141}
+{"id":142,"_locked":false,"code":382,"errorText":"AREA NOT AVAILABLE TO THIS SUBSCRIBER","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":142}
+{"id":143,"_locked":false,"code":384,"errorText":"INVALID SUBCODE FOR REPORT TYPE 6","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":143}
+{"id":144,"_locked":false,"code":388,"errorText":"INVALID PREAMBLE FOR THIS SUBCODE: ZIPCODE/PREAMBLE NOT IN RANGE OR INVALID","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":144}
+{"id":145,"_locked":false,"code":390,"errorText":"INVALID T- KEYWORD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":145}
+{"id":146,"_locked":false,"code":402,"errorText":"*** FULL CURRENT ADDRESS REQUIRED TO ACCESS CONSUMERS FILE\n***","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":146}
+{"id":147,"_locked":false,"code":403,"errorText":"SS# REQUIRED TO ACCESS CONSUMERS FILE","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":147}
+{"id":148,"_locked":false,"code":404,"errorText":"GENERATION CODE REQUIRED TO ACCESS CONSUMERS FILE","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":148}
+{"id":149,"_locked":false,"code":405,"errorText":"YEAR OF BIRTH REQUIRED TO ACCESS CONSUMERS FILE","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":149}
+{"id":150,"_locked":false,"code":406,"errorText":"MIDDLE NAME REQUIRED TO ACCESS CONSUMERS FILE","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":150}
+{"id":151,"_locked":false,"code":407,"errorText":"UNABLE TO STANDARDIZE CURRENT ADDRESS","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":151}
+{"id":152,"_locked":false,"code":408,"errorText":"ADDRESS FIELD INVALID","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":152}
+{"id":153,"_locked":false,"code":451,"errorText":"INPUT VALIDATION ERROR. ELEMENT TAG NAME WILL BE SPECIFIED IN THE ERROR MESSAGE.","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":153}
+{"id":154,"_locked":false,"code":453,"errorText":"CLIENT CONFIGURATION ERROR","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":154}
+{"id":155,"_locked":false,"code":454,"errorText":"INVALID MODELCODE OR JSC","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":155}
+{"id":156,"_locked":false,"code":456,"errorText":"SYSTEMS SECURITY AUTHENTICATION FAILED","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":156}
+{"id":157,"_locked":false,"code":460,"errorText":"OTHER SYSTEM ERROR","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":157}
+{"id":158,"_locked":false,"code":500,"errorText":"CONSUMER NAME INFORMATION TEMPORARILY UNAVAILABLE.  PLEASE RESUBMIT","action":"R","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":158}
+{"id":159,"_locked":false,"code":501,"errorText":"CONSUMER COMMENTS INFORMATION TEMPORARILY UNAVAILABLE. PLEASE RESUBMIT","action":"R","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":159}
+{"id":160,"_locked":false,"code":502,"errorText":"CONSUMER ADDRESS INFORMATION TEMPORARILY UNAVAILABLE. PLEASE RESUBMIT","action":"R","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":160}
+{"id":161,"_locked":false,"code":503,"errorText":"PUBLIC RECORD INFORMATION TEMPORARILY UNAVAILABLE.  PLEASE RESUBMIT","action":"R","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":161}
+{"id":162,"_locked":false,"code":504,"errorText":"INQUIRY HISTORY INFORMATION TEMPORARILY UNAVAILABLE.  PLEASE RESUBMIT","action":"R","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":162}
+{"id":163,"_locked":false,"code":505,"errorText":"SERVICE INQUIRY HISTORY INFORMATION TEMPORARILY UNAVAILABLE.  PLEASE RESUBMIT","action":"R","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":163}
+{"id":164,"_locked":false,"code":506,"errorText":"EXTERNAL DATA SERVICE TEMPORARILY UNAVAILABLE. PLEASE RESUBMIT.","action":"R","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":164}
+{"id":165,"_locked":false,"code":507,"errorText":"NAME PARSE SERVICE TEMPORARILY UNAVAILABLE. PLEASE RESUBMIT","action":"R","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":165}
+{"id":166,"_locked":false,"code":508,"errorText":"ADDRESS STANDARDIZATION SERVICE TEMPORARILY UNAVAILABLE. PLEASE RESUBMIT","action":"R","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":166}
+{"id":167,"_locked":false,"code":509,"errorText":"SYSTEM EXCEPTION. REQUEST NOT PROCESSED.TRY AGAIN LATER.","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":167}
+{"id":168,"_locked":false,"code":599,"errorText":"EXPERIAN INTERNAL USE ONLY (MSC / ECS)","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":168}
+{"id":169,"_locked":false,"code":600,"errorText":"BA- OR CA- KEYWORD NOT PRESENT","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":169}
+{"id":170,"_locked":false,"code":602,"errorText":"THIRD PA- KEYWORD  DETECTED","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":170}
+{"id":171,"_locked":false,"code":616,"errorText":"INVALID LAST/FIRST/MIDDLE NAME","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":171}
+{"id":172,"_locked":false,"code":617,"errorText":"CLARITY EXCEPTION RETURNED","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":172}
+{"id":173,"_locked":false,"code":618,"errorText":"CLARITY DATA RETURNED","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":173}
+{"id":174,"_locked":false,"code":619,"errorText":"ICRAA REFERENCE ID NOT FOUND IN ICRAA DB","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":174}
+{"id":175,"_locked":false,"code":620,"errorText":"ICRAA REF ID NOT ASSOCIATED WITH CONSUMER","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":175}
+{"id":176,"_locked":false,"code":621,"errorText":"INVALID SPOUSE NAME","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":176}
+{"id":177,"_locked":false,"code":622,"errorText":"ICRAA REFERENCE ID : <TRANS ID>","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":177}
+{"id":178,"_locked":false,"code":623,"errorText":"ICRAA INQUIRY LOGGING COMPLETE","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":178}
+{"id":179,"_locked":false,"code":627,"errorText":"INVALID STREET ADDRESS FIELD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":179}
+{"id":180,"_locked":false,"code":630,"errorText":"CITY/STATE REQUIRED ON INQUIRY","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":180}
+{"id":181,"_locked":false,"code":631,"errorText":"PRIMARY NAME LINE EXCEEDS MAX SIZE","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":181}
+{"id":182,"_locked":false,"code":632,"errorText":"SPOUSE NAME: LENGTH INVALID","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":182}
+{"id":183,"_locked":false,"code":633,"errorText":"CURR/BILLING ADDRESS LINE EXCEEDS MAX SIZE","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":183}
+{"id":184,"_locked":false,"code":634,"errorText":"PREV/SERVICE ADDRESS LINE EXCEEDS MAX SIZE","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":184}
+{"id":185,"_locked":false,"code":638,"errorText":"** LOGIC ERROR  PLEASE CALL EXPERIAN 800-854-7201","action":"R","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":185}
+{"id":186,"_locked":false,"code":639,"errorText":"INQUIRY TYPE INVALID FOR THIS SUBCODE","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":186}
+{"id":187,"_locked":false,"code":643,"errorText":"U- KEYWORD FORMAT ERROR","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":187}
+{"id":188,"_locked":false,"code":645,"errorText":"U: DATA NOT ALLOWED WITH THIS INQUIRY","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":188}
+{"id":189,"_locked":false,"code":651,"errorText":"NEED S/W NETWORK VALIDATION 800-854-7201","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":189}
+{"id":190,"_locked":false,"code":652,"errorText":"NEED S/W WINDOWS VALIDATION 800-854-7201","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":190}
+{"id":191,"_locked":false,"code":653,"errorText":"*** END-USER IDENTIFICATION REQUIRED ***","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":191}
+{"id":192,"_locked":false,"code":654,"errorText":"(HOLD FOR CUSTOM SOLUTIONS RD RESERVED)","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":192}
+{"id":193,"_locked":false,"code":660,"errorText":"REQUIRED KEYWORD MISSING","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":193}
+{"id":194,"_locked":false,"code":661,"errorText":"INVALID KEYWORD FOR INQUIRY TYPE","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":194}
+{"id":195,"_locked":false,"code":662,"errorText":"ORIGINAL INQUIRY DATE IS INVALID","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":195}
+{"id":196,"_locked":false,"code":663,"errorText":"POWER PROFILE PRODUCT OPTION NOT ALLOWED","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":196}
+{"id":197,"_locked":false,"code":664,"errorText":"Internal processing error (Ascend Ops). Please resubmit.","action":"R","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":197}
+{"id":198,"_locked":false,"code":672,"errorText":"INVALID VENDOR ID; PLEASE CALL 800-854-7201","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":198}
+{"id":199,"_locked":false,"code":675,"errorText":"INVALID JOB1- KEYWORD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":199}
+{"id":200,"_locked":false,"code":676,"errorText":"INVALID RES1- KEYWORD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":200}
+{"id":201,"_locked":false,"code":677,"errorText":"INVALID INC1- KEYWORD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":201}
+{"id":202,"_locked":false,"code":678,"errorText":"INVALID EXP1- KEYWORD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":202}
+{"id":203,"_locked":false,"code":679,"errorText":"INVALID BRE1- KEYWORD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":203}
+{"id":204,"_locked":false,"code":680,"errorText":"INVALID DEP1- KEYWORD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":204}
+{"id":205,"_locked":false,"code":681,"errorText":"INVALID or MISSING INFO- KEYWORD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":205}
+{"id":206,"_locked":false,"code":682,"errorText":"INVALID OVER- KEYWORD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":206}
+{"id":207,"_locked":false,"code":683,"errorText":"COMMUNICATION ERROR","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":207}
+{"id":208,"_locked":false,"code":684,"errorText":"INVALID JOB2- KEYWORD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":208}
+{"id":209,"_locked":false,"code":685,"errorText":"INVALID RES- KEYWORD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":209}
+{"id":210,"_locked":false,"code":686,"errorText":"INVALID RES2- KEYWORD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":210}
+{"id":211,"_locked":false,"code":687,"errorText":"INVALID INC- KEYWORD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":211}
+{"id":212,"_locked":false,"code":688,"errorText":"INVALID INC2- KEYWORD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":212}
+{"id":213,"_locked":false,"code":689,"errorText":"INVALID EXP- KEYWORD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":213}
+{"id":214,"_locked":false,"code":690,"errorText":"INVALID EXP2- KEYWORD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":214}
+{"id":215,"_locked":false,"code":691,"errorText":"INVALID BRE- KEYWORD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":215}
+{"id":216,"_locked":false,"code":692,"errorText":"INVALID BRE2- KEYWORD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":216}
+{"id":217,"_locked":false,"code":693,"errorText":"INVALID DEP- KEYWORD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":217}
+{"id":218,"_locked":false,"code":694,"errorText":"INVALID DEP2- KEYWORD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":218}
+{"id":219,"_locked":false,"code":695,"errorText":"INVALID VERIFY- KEYWORD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":219}
+{"id":220,"_locked":false,"code":696,"errorText":"INVALID SCA- KEYWORD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":220}
+{"id":221,"_locked":false,"code":697,"errorText":"INVALID AUTO- KEYWORD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":221}
+{"id":222,"_locked":false,"code":698,"errorText":"INVALID REF- KEYWORD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":222}
+{"id":223,"_locked":false,"code":699,"errorText":"INVALID PRD- KEYWORD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":223}
+{"id":224,"_locked":false,"code":701,"errorText":"FORMATTING ERROR","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":224}
+{"id":225,"_locked":false,"code":702,"errorText":"INVALID DEMOGRAPHIC DATA","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":225}
+{"id":226,"_locked":false,"code":703,"errorText":"CUSTOMER NOT SET UP ON OPTIONS TABLE","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":226}
+{"id":227,"_locked":false,"code":704,"errorText":"CS SYSTEM FAILURE","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":227}
+{"id":228,"_locked":false,"code":705,"errorText":"ARF VERSION NUMBER MISSING","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":228}
+{"id":229,"_locked":false,"code":706,"errorText":"ARF SYSTEM FAILURE","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":229}
+{"id":230,"_locked":false,"code":707,"errorText":"DECISION CANNOT BE GENERATED DUE TO FACS+ UNAVAILABLE","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":230}
+{"id":231,"_locked":false,"code":708,"errorText":"INPUT VALIDATION ERROR  (Precise ID)","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":232}
+{"id":233,"_locked":false,"code":709,"errorText":"INVALID USER ID/PASSWORD  (Precise ID)","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":233}
+{"id":234,"_locked":false,"code":710,"errorText":"SUBCODE NOT SETUP IN TABLE (PREQUAILIFICATION PRODUCT)","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":235}
+{"id":236,"_locked":false,"code":711,"errorText":"END USER REQUIRED (Precise ID)","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":236}
+{"id":237,"_locked":false,"code":715,"errorText":"KIQ SESSION EXCEEDED TIMEOUT LIMIT  (Precise ID)","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":237}
+{"id":239,"_locked":false,"code":720,"errorText":"OTHER PRECISE ID SYSTEM ERROR (Precise ID)","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":238}
+{"id":240,"_locked":false,"code":730,"errorText":"INPUT VALIDATION ERROR (Fraud AVS)","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":240}
+{"id":241,"_locked":false,"code":731,"errorText":"SSO AUTHENTICATION ERROR (Fraud AVS)","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":241}
+{"id":242,"_locked":false,"code":732,"errorText":"APPLICATION ID MISSING","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":246}
+{"id":243,"_locked":false,"code":733,"errorText":"CLIENT CONFIGURATION ERROR (Fraud AVS)","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":243}
+{"id":244,"_locked":false,"code":734,"errorText":"DOB MISSING","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":247}
+{"id":245,"_locked":false,"code":735,"errorText":"CHANNEL CODE OR LOB MISSING","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":248}
+{"id":249,"_locked":false,"code":736,"errorText":"PRODUCT CODE RAW MISSING","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":249}
+{"id":250,"_locked":false,"code":737,"errorText":"PRODUCT CODE MISSING","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":250}
+{"id":251,"_locked":false,"code":738,"errorText":"STRATEGY CODE MISSING","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":251}
+{"id":252,"_locked":false,"code":739,"errorText":"DATE APPLICATION ENTERED MISSING","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":252}
+{"id":253,"_locked":false,"code":740,"errorText":"ASSIGNED LINE MISSING OR NON-NUMERIC","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":253}
+{"id":254,"_locked":false,"code":741,"errorText":"PRIMARY FICO MISSING OR NON-NUMERIC","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":254}
+{"id":255,"_locked":false,"code":742,"errorText":"COAPP FICO MISSING OR NON-NUMERIC","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":255}
+{"id":256,"_locked":false,"code":745,"errorText":"EVENT TIME MISSING OR INVALID","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":256}
+{"id":257,"_locked":false,"code":746,"errorText":"IDENTITY RISK CALL FLAG OR CIP CALL FLAG MISSING OR INVALID","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":257}
+{"id":258,"_locked":false,"code":747,"errorText":"FRAUDNET CALL FLAG MISSING OR INVALID","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":258}
+{"id":259,"_locked":false,"code":748,"errorText":"FRAUDNET RESPONSE FLAG MISSING OR INVALID","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":259}
+{"id":260,"_locked":false,"code":799,"errorText":"INSTANT PRESCREEN NON-RESPONSE.  No TTY text.","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":260}
+{"id":261,"_locked":false,"code":800,"errorText":"INVALID DLX- KEYWORD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":261}
+{"id":262,"_locked":false,"code":801,"errorText":"INVALID SSI- KEYWORD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":262}
+{"id":263,"_locked":false,"code":802,"errorText":"ERROR ATTEMPTING TO CONNECT TO CREDIT BUREAU SERVICE","action":"R","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":263}
+{"id":264,"_locked":false,"code":803,"errorText":"ERROR TRANSMITTING INQUIRY TO CREDIT BUREAU SERVICE","action":"R","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":264}
+{"id":265,"_locked":false,"code":804,"errorText":"ERROR RECEIVING RESPONSE FROM CREDIT BUREAU SERVICE","action":"R","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":265}
+{"id":266,"_locked":false,"code":805,"errorText":"INVALID RESPONSE FROM CREDIT BUREAU SERVICE","action":"R","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":266}
+{"id":267,"_locked":false,"code":806,"errorText":"ERROR ATTEMPTING TO CONNECT TO CREDIT BUREAU GATEWAY","action":"R","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":267}
+{"id":268,"_locked":false,"code":807,"errorText":"ERROR TRANSMITTING INQUIRY TO CREDIT BUREAU GATEWAY","action":"R","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":268}
+{"id":269,"_locked":false,"code":808,"errorText":"ERROR RECEIVING FROM CREDIT BUREAU GATEWAY","action":"R","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":269}
+{"id":270,"_locked":false,"code":809,"errorText":"ERROR DE-BLOCKING BUREAU RESPONSE SEGMENTS","action":"R","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":270}
+{"id":271,"_locked":false,"code":810,"errorText":"INTERNAL RESPONSE EVALUATION CONTROL TABLE ERROR","action":"R","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":271}
+{"id":272,"_locked":false,"code":811,"errorText":"JOINT INQUIRY NOT ALLOWED","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":272}
+{"id":273,"_locked":false,"code":812,"errorText":"SYSTEM STORAGE SPACE EXCEEDED","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":273}
+{"id":274,"_locked":false,"code":813,"errorText":"INVALID DLX2 KEYWORD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":274}
+{"id":275,"_locked":false,"code":814,"errorText":"INVALID BRU KEYWORD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":275}
+{"id":276,"_locked":false,"code":815,"errorText":"PRODUCT IDENTIFICATION IN PRD- KEYWORD DOES NOT MATCH AUTHORIZED PRODUCTS","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":276}
+{"id":277,"_locked":false,"code":816,"errorText":"ALL REQUESTED BUREAUS RETURNED A NO RECORD FOUND","action":"R","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":277}
+{"id":278,"_locked":false,"code":817,"errorText":"INVALID OVRD- KEYWORD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":278}
+{"id":279,"_locked":false,"code":818,"errorText":"EQUIFAX RETURNED AN ERROR MESSAGE","action":"I","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":279}
+{"id":280,"_locked":false,"code":819,"errorText":"TRANS UNION RETURNED AN ERROR MESSAGE","action":"I","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":280}
+{"id":281,"_locked":false,"code":820,"errorText":"SYSTEM UNAVAILABLE  PLEASE TRY LATER","action":"R","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":281}
+{"id":282,"_locked":false,"code":821,"errorText":"INQUIRY FORMAT ERROR","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":282}
+{"id":283,"_locked":false,"code":822,"errorText":"INVALID SECURITY PASSWORD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":283}
+{"id":284,"_locked":false,"code":823,"errorText":"INVALID OPTIN1- KEYWORD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":284}
+{"id":285,"_locked":false,"code":824,"errorText":"INVALID OPTIN2- KEYWORD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":285}
+{"id":286,"_locked":false,"code":825,"errorText":"CUSTOM STRATEGIST CONFLICT FOR KEYWORD SSI-, RM-, M-","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":286}
+{"id":287,"_locked":false,"code":827,"errorText":"MODEL REQUIRES VERIFY-RM KEYWORD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":287}
+{"id":288,"_locked":false,"code":828,"errorText":"A CREDIT DECISION CANNOT BE MADE BECAUSE THE PRIMARY BORROWER HAS BLOCKED ACCESS TO THE CREDIT PROFILE INFORMATION PURSUANT TO CA SB168","action":"R","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":288}
+{"id":289,"_locked":false,"code":829,"errorText":"A CREDIT DECISION CANNOT BE MADE BECAUSE THE SECONDARY BORROWER HAS BLOCKED ACCESS TO THE CREDIT PROFILE INFORMATION PURSUANT TO CA SB168","action":"R","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":289}
+{"id":290,"_locked":false,"code":851,"errorText":"PINID- KEYWORD ERROR","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":290}
+{"id":291,"_locked":false,"code":856,"errorText":"INVALID LENGTH FOR CONSUMER SERVICES  INQUIRY HAS AN INCORRECT LENGTH","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":291}
+{"id":292,"_locked":false,"code":860,"errorText":"RESOURCE NOT AVAILABLE, PLEASE RE-ENTER INQUIRY","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":292}
+{"id":293,"_locked":false,"code":901,"errorText":"INSUFFICIENT DATA SUPPLIED","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":293}
+{"id":294,"_locked":false,"code":902,"errorText":"DUPLICATE KEYWORDS ENTERED","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":294}
+{"id":295,"_locked":false,"code":903,"errorText":"INVALID DATA FOR K- KEYWORD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":295}
+{"id":296,"_locked":false,"code":904,"errorText":"INVALID DATA FOR R- KEYWORD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":296}
+{"id":297,"_locked":false,"code":905,"errorText":"INVALID DATA FOR O- KEYWORD","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":297}
+{"id":298,"_locked":false,"code":925,"errorText":"MSG- MAXIMUM LENGTH IS 68 CHARACTERS","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":298}
+{"id":299,"_locked":false,"code":926,"errorText":"MSG- MINIMUM LENGTH IS 7 CHARACTERS","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":299}
+{"id":300,"_locked":false,"code":928,"errorText":"MSG- MAXIMUM 20 CHARS IF NO NAME","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":300}
+{"id":301,"_locked":false,"code":929,"errorText":"MSG- REQUIRES SSN TO BE ENTERED","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":301}
+{"id":302,"_locked":false,"code":930,"errorText":"MSG- TELEPHONE NUMBER LENGTH INCORRECT","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":302}
+{"id":303,"_locked":false,"code":931,"errorText":"MSG- ONLY NAME MAY FOLLOW TELEPHONE NUM","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":303}
+{"id":304,"_locked":false,"code":935,"errorText":"MSG- TELEPHONE NUMBER INVALID","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":304}
+{"id":305,"_locked":false,"code":936,"errorText":"INQUIRY TYPE / SUBCODE CONFLICT","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":305}
+{"id":306,"_locked":false,"code":944,"errorText":"MORE THAN 20 SOCIALS  DETECTED","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":306}
+{"id":307,"_locked":false,"code":945,"errorText":"ORIGINAL CREDITOR EXCEEDS 30 CHARACTERS","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":307}
+{"id":308,"_locked":false,"code":946,"errorText":"ORIGINAL CREDITOR REQUIRED FOR COLLECTION AGENCIES","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":308}
+{"id":309,"_locked":false,"code":947,"errorText":"MULTIPLE PINS MATCH NUMERIC INQUIRY CRITERIA OR DRIVERS LICENSE INQUIRY CRITERIA","action":"I","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":309}
+{"id":310,"_locked":false,"code":948,"errorText":"PINS ASSOCIATED WITH ADDRESS EXCEED MAXIMUM LIMIT","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":310}
+{"id":311,"_locked":false,"code":999,"errorText":"UNKNOWN ERROR","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":311}
+{"id":312,"_locked":false,"code":4002,"errorText":"Your account is not in good standing","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":312}
+{"id":313,"_locked":false,"code":4003,"errorText":"Forbidden","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":313}
+{"id":314,"_locked":false,"code":8000,"errorText":"EIN required","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":314}
+{"id":315,"_locked":false,"code":8001,"errorText":"EIN invalid","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":315}
+{"id":316,"_locked":false,"code":8002,"errorText":"The Permitted Entity Certificate is invalid","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":316}
+{"id":317,"_locked":false,"code":8003,"errorText":"Insufficient balance","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":317}
+{"id":318,"_locked":false,"code":8004,"errorText":"Bulk transaction: Number of submitted records exceeds maximum","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":318}
+{"id":319,"_locked":false,"code":8100,"errorText":"Input Date of Birth invalid","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":319}
+{"id":320,"_locked":false,"code":8101,"errorText":"Signature Type must be W or E","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":320}
+{"id":321,"_locked":false,"code":8103,"errorText":"Input SSN is invalid","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":321}
+{"id":322,"_locked":false,"code":8104,"errorText":"Input first name is invalid","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":322}
+{"id":323,"_locked":false,"code":8105,"errorText":"Input last name is invalid","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":323}
+{"id":324,"_locked":false,"code":8106,"errorText":"Input middle name is invalid","action":"C","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":324}
+{"id":325,"_locked":false,"code":8201,"errorText":"An error occurred - your account was not decremented","action":"R","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":325}
+{"id":326,"_locked":false,"code":8202,"errorText":"An error occurred - your account was not decremented","action":"R","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":326}
+{"id":327,"_locked":false,"code":8203,"errorText":"An error occurred - your account was not decremented","action":"R","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":327}
+{"id":328,"_locked":false,"code":8204,"errorText":"An error occurred - your account was not decremented","action":"R","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":328}
+{"id":329,"_locked":false,"code":8300,"errorText":"A problem has occurred  please contact eCBSV User Support","action":"R","sourceName":"EfxAppendix_EfxErrorCodes.csv","lineNumber":329}

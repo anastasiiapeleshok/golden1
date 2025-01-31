@@ -1,0 +1,7 @@
+﻿Vehicle Tier,Zest Score <,Members Only,Minimum Vantage Score,Maximum Front LTV,Maximum Back LTV,Maximum Loan Amount,Maximum Loan Term,Maximum DTI,Maximum PTI Auto Approval ,Maximum Secured Aggregate Amount With G1 No Mortgage,Maximum Total Unsecure Balance Over Annual Income
+0,50,FALSE,600,115%,150%," $100,000.00 ",96,55%,15%," $700,000.00 ",70%
+1,90,FALSE,600,115%,150%," $100,000.00 ",96,50%,15%," $700,000.00 ",70%
+2,130,FALSE,600,115%,150%," $75,000.00 ",84,50%,15%," $700,000.00 ",70%
+3,170,FALSE,600,115%,150%," $75,000.00 ",84,45%,15%," $700,000.00 ",70%
+4,210,FALSE,600,105%,150%," $35,000.00 ",72,45%,15%," $700,000.00 ",70%
+5,360,TRUE,,95%,,,,,15%,,
